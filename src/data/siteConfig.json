@@ -1,0 +1,30 @@
+{
+  "home": {
+    "heroBadge": "UIT-Together Research Group • VNU-HCM",
+    "heroTitle": "Advancing Computer Vision & Machine Learning",
+    "heroSubtitle": "We conduct foundational and applied research in high-altitude aerial perception, autonomous traffic anomaly detection, document analysis, and multimodal deep learning at the University of Information Technology.",
+    "heroImage": "/images/team/team0.jpg",
+    "heroImageCaption": "UIT Together research group meeting and discussion session",
+    "statsPublications": "100+",
+    "statsJournals": "42 Venues",
+    "statsDatasets": "13",
+    "statsLabLocation": "Room A108"
+  },
+  "about": {
+    "facilityTitle": "Research Laboratory Facilities",
+    "facilityRoom": "Room A108, Block A",
+    "facilityBuilding": "Block A, University of Information Technology",
+    "facilityAddress": "Quarter 6, Linh Trung Ward, Thu Duc City, Ho Chi Minh City, Vietnam",
+    "facilityDescription": "Operating out of Room A108 in Block A, our laboratory is equipped with dedicated high-performance GPU workstations optimized for training deep neural architectures in aerial computer vision, multi-modal representation learning, and real-time streaming video anomaly detection.",
+    "leadershipTitle": "Research Leadership & Vision",
+    "leadershipDescription": "Founded and directed by Dr. Nguyễn Tấn Trần Minh Khang and Dr. Võ Duy Nguyên, UIT-Together bridges academic research with impactful real-world applications in Vietnamese urban safety, autonomous transportation, and document intelligence."
+  },
+  "footer": {
+    "brandName": "UIT-Together Research Group",
+    "tagline": "A pioneering research laboratory affiliated with the University of Information Technology (VNU-HCM), driving scientific innovation in Computer Vision, Machine Learning, Aerial Remote Sensing, and Multimodal AI.",
+    "address": "Room A108, Block A, University of Information Technology, VNU-HCM, Thu Duc City, Ho Chi Minh City",
+    "email": "khangnttm@uit.edu.vn",
+    "phone": "+84 (028) 3725 2002",
+    "copyright": "UIT-Together Research Group, University of Information Technology (VNU-HCM). All rights reserved."
+  }
+}

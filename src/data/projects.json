@@ -1,0 +1,62 @@
+[
+  {
+    "id": "medical-imaging",
+    "title": "Sparse-View CT Reconstruction",
+    "description": "Starting from a sinogram measured at a limited number of projection angles, the goal is to reconstruct CT images with fewer noise and streak artifacts while preserving anatomical structure.\n\nThis direction combines the physics of image acquisition with deep learning, using local features and long-range dependencies to recover images from sparse projection data.",
+    "icon": "Heartbeat",
+    "tags": [
+      "Medical Imaging",
+      "CT Reconstruction",
+      "Sinogram Recovery",
+      "Deep Learning"
+    ],
+    "mediaType": "video",
+    "mediaUrl": "/images/research/AI_medical/CT-Reconstruction/Sinogram.mp4",
+    "caption": "Sinogram · Projection data used as input for CT reconstruction"
+  },
+  {
+    "id": "whole-slide-images",
+    "title": "Whole-Slide Image Analysis",
+    "description": "WSIs are high-resolution digital scans of entire pathology slides. We study how to learn from small image patches and aggregate their information to classify cancer at the whole-slide level.\n\nAnother focus is estimating and ranking survival risk from pathology features. The goal is relative risk stratification rather than a definitive prediction of an individual patient's survival time.\n\nAttention maps help examine tissue regions contributing to predictions and model interpretability.",
+    "icon": "Microscope",
+    "tags": [
+      "Pathology AI",
+      "WSI Analysis",
+      "Cancer Classification",
+      "Attention Maps"
+    ],
+    "mediaType": "image",
+    "mediaUrl": "/images/research/AI_medical/WSIs_classification.png",
+    "caption": "Whole-slide images and attention maps across tissue regions."
+  },
+  {
+    "id": "anomaly-detection",
+    "title": "Anomaly Detection",
+    "description": "We study how to recognize patterns and events that differ from normal activity in video and locate when anomalies occur. Challenges include diverse scenes and limited examples of anomalous events.",
+    "icon": "WarningCircle",
+    "tags": [
+      "Video Anomaly",
+      "Event Detection",
+      "Temporal Dynamics",
+      "Intelligent Surveillance"
+    ],
+    "mediaType": "video",
+    "mediaUrl": "/images/research/Anomoly_detection/anomaly-detection-web.mp4",
+    "caption": "Video illustrating the anomaly detection research direction."
+  },
+  {
+    "id": "object-detection",
+    "title": "Object Detection",
+    "description": "We study object detection in clean, fog, rain and snow conditions. The goal is to recognize and localize objects when weather changes image quality and visibility.\n\nThis direction focuses on model robustness under changing visual conditions, aiming to reduce missed detections and false positives in adverse weather.",
+    "icon": "AirplaneTilt",
+    "tags": [
+      "Object Detection",
+      "Adverse Weather",
+      "Fog & Rain Robustness",
+      "Autonomous Systems"
+    ],
+    "mediaType": "video",
+    "mediaUrl": "/images/research/Object_detection/object_detection.mp4",
+    "caption": "Object detection under different visual conditions: clean, fog, rain and snow."
+  }
+]

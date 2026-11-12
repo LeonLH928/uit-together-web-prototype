@@ -1,0 +1,261 @@
+[
+  {
+    "id": "covid-19",
+    "title": "COVID-19",
+    "year": 2021,
+    "image": "/images/projects/covid.PNG",
+    "description": "We collect images and annotate them with medical imaging specialists. In particular, COVID-19 includes 1,517 NORMAL cases, 1,467 PNEUMONIA cases, and 439 COVID cases gathered from standard international radiography repositories with expert physician verification.",
+    "highlights": [
+      "Expert-annotated cases: 1,517 Normal cases, 1,467 Pneumonia cases, and 439 COVID-19 cases.",
+      "Multi-source aggregation: COVID-19 Radiography Database, Covid-19 Image Dataset, and high-quality clinical hospital records."
+    ],
+    "githubUrl": "https://github.com/nguyenvd-uit/uit-together-dataset/blob/main/COVID-19.md",
+    "paperUrl": "https://github.com/nguyenvd-uit/uit-together-dataset/blob/main/COVID-19.md",
+    "tags": [
+      "Medical Imaging",
+      "Healthcare AI",
+      "Chest X-Ray",
+      "Classification"
+    ]
+  },
+  {
+    "id": "uit-dodv",
+    "title": "UIT-DODV",
+    "year": 2021,
+    "image": "/images/projects/uit-dodv.png",
+    "description": "UIT-DODV is the first Vietnamese document image dataset, including 2,394 images with four classes: Table, Figure, Caption, Formula. Converted 1,696 images from PDF, 247 images scanned from physical scanners, and expanded with 451 images scanned from smartphones.",
+    "highlights": [
+      "Variety of images: PDF conversions, physical flatbed scans, and smartphone handheld scans with perspective distortions.",
+      "Variety of layout: Papers from scientific conferences/journals covering single-column and two-column templates.",
+      "Fine-grained layout objects: Simultaneous detection of Table, Figure, Caption, and mathematical Formula."
+    ],
+    "githubUrl": "https://github.com/nguyenvd-uit/uit-together-dataset/blob/main/UIT-DODV.md",
+    "paperUrl": "https://github.com/nguyenvd-uit/uit-together-dataset/blob/main/UIT-DODV.md",
+    "tags": [
+      "Document AI",
+      "Table Detection",
+      "Layout Analysis",
+      "Vietnamese Documents"
+    ]
+  },
+  {
+    "id": "uit-vemc21",
+    "title": "UIT-VEMC21",
+    "year": 2021,
+    "image": "/images/projects/uit-vemc.png",
+    "description": "Vietnamese Ethnic Minority Costumes Classification (UIT-VEMC21) benchmark, consisting of the 10 largest ethnic groups in Vietnam: Tay, Thai, Muong, H'Mong, Dao, Ede, Ba Na, Cham, San Diu, and Ra Glai.",
+    "highlights": [
+      "10 ethnic categories carefully verified and labeled by cultural experts.",
+      "Samples collected from 10 volunteers wearing and changing 2-3 traditional outfits.",
+      "Photographed under diverse daytime lighting conditions across clear and cloudy weather."
+    ],
+    "githubUrl": "https://github.com/nguyenvd-uit/uit-together-dataset/blob/main/UIT-VEMC21.md",
+    "paperUrl": "https://github.com/nguyenvd-uit/uit-together-dataset/blob/main/UIT-VEMC21.md",
+    "tags": [
+      "Costume Classification",
+      "Ethnic Minorities",
+      "Cultural Heritage",
+      "Fine-grained AI"
+    ]
+  },
+  {
+    "id": "uit-vinafruit20",
+    "title": "UIT-VinaFruit20",
+    "year": 2021,
+    "image": "/images/projects/uit-fruit.png",
+    "description": "UIT-VinaFruit20 contains 63,541 images corresponding to 20 popular Vietnamese fruits, averaging about 3,700 images per class. It is the first comprehensive Vietnamese fruit recognition benchmark addressing high intra-class variance.",
+    "highlights": [
+      "Diversity in ripeness: Includes fruits from unripe green stages to fully ripe harvest colors.",
+      "High intra-class variation: Covers diverse shapes, regional variants, and low inter-class color distances.",
+      "Contextual clutter: Fruits photographed in natural farm orchards, market baskets, and festive meal preparations."
+    ],
+    "githubUrl": "https://github.com/nguyenvd-uit/uit-together-dataset/blob/main/UIT-VinaFruit20.md",
+    "paperUrl": "https://github.com/nguyenvd-uit/uit-together-dataset/blob/main/UIT-VinaFruit20.md",
+    "tags": [
+      "Fruit Classification",
+      "Agriculture AI",
+      "Computer Vision",
+      "Vietnamese Fruits"
+    ]
+  },
+  {
+    "id": "uit-cvid21",
+    "title": "UIT-CVID21",
+    "year": 2021,
+    "image": "/images/projects/uit-cvid21.png",
+    "description": "UIT-CVID21 (Classifying Vehicle In Image From Drone) contains 10,000 images covering four primary vehicle classes: bus, car, truck, and van, captured from unmanned aerial vehicles reflecting the dynamics of Vietnamese roadways.",
+    "highlights": [
+      "10,000 high-resolution aerial vehicle images across four primary transport categories.",
+      "Diverse bird's-eye and oblique camera angles capturing small objects in dense traffic.",
+      "Realistic Vietnamese urban road conditions for traffic density and flow management."
+    ],
+    "githubUrl": "https://github.com/nguyenvd-uit/uit-together-dataset/blob/main/UIT-CVID21.md",
+    "paperUrl": "https://github.com/nguyenvd-uit/uit-together-dataset/blob/main/UIT-CVID21.md",
+    "tags": [
+      "Drone Imagery",
+      "Vehicle Classification",
+      "Traffic Surveillance",
+      "Urban Mobility"
+    ]
+  },
+  {
+    "id": "uit-drone21",
+    "title": "UIT-Drone21",
+    "year": 2021,
+    "image": "/images/projects/uit-drone21.png",
+    "description": "A novel drone benchmark dataset to advance aerial video analysis under complex scenarios. Includes 23 short video sequences totaling approximately 15,370 fully annotated frames for object detection and visual tracking.",
+    "highlights": [
+      "23 video sequences with 13,066 fully annotated frames with bounding boxes.",
+      "Multi-task benchmark: Object Detection, Single-Object Tracking (SOT), and Multiple Object Tracking (MOT).",
+      "2,304 supplementary frames specifically annotated for complex small-object detection."
+    ],
+    "githubUrl": "https://github.com/nguyenvd-uit/uit-together-dataset/blob/main/UIT-Drone21.md",
+    "paperUrl": "https://github.com/nguyenvd-uit/uit-together-dataset/blob/main/UIT-Drone21.md",
+    "tags": [
+      "Drone Benchmark",
+      "Object Detection",
+      "Object Tracking",
+      "Video AI"
+    ]
+  },
+  {
+    "id": "uit-flower",
+    "title": "UIT-Flower",
+    "year": 2021,
+    "image": "/images/projects/uit-flower.png",
+    "description": "UIT-Flower dataset includes 81,909 images across 21 flowers native and popular in Vietnam, presenting challenging fine-grained botanical classification problems with high color and morphology variance.",
+    "highlights": [
+      "81,909 images across 21 botanical flower classes.",
+      "Wide color variation within single species under regional environmental factors.",
+      "Visual clutter: Flowers photographed in bouquets, vases, garden settings, and festive decorations."
+    ],
+    "githubUrl": "https://github.com/nguyenvd-uit/uit-together-dataset/blob/main/UIT-Flower.md",
+    "paperUrl": "https://github.com/nguyenvd-uit/uit-together-dataset/blob/main/UIT-Flower.md",
+    "tags": [
+      "Flora Classification",
+      "Botanical AI",
+      "Fine-grained Recognition",
+      "Vietnamese Flowers"
+    ]
+  },
+  {
+    "id": "vina-food21",
+    "title": "Vina-Food21",
+    "year": 2021,
+    "image": "/images/projects/vina-food21.png",
+    "description": "VinaFood21 contains 13,950 images corresponding to 21 iconic dishes, establishing a comprehensive milestone for complex Vietnamese food recognition encompassing street food and daily meals.",
+    "highlights": [
+      "13,950 curated food images across 21 iconic Vietnamese dishes.",
+      "2~3 times larger category coverage than prior Vietnamese food benchmarks.",
+      "High intra-class variation across restaurant plating, street vendors, and home kitchens."
+    ],
+    "githubUrl": "https://github.com/nguyenvd-uit/uit-together-dataset/blob/main/VinaFood21.md",
+    "paperUrl": "https://github.com/nguyenvd-uit/uit-together-dataset/blob/main/VinaFood21.md",
+    "tags": [
+      "Food Recognition",
+      "Vietnamese Cuisine",
+      "Culinary AI",
+      "Fine-grained AI"
+    ]
+  },
+  {
+    "id": "uit-anomaly",
+    "title": "UIT-Anomaly",
+    "year": 2022,
+    "image": "/images/projects/uit-anomaly.png",
+    "description": "The UIT-Anomaly dataset includes 224 muted surveillance videos captured at 30 fps (over 200 minutes, 392,188 frames) featuring 104 normal and 120 anomalous videos across 18 typical Vietnamese scenes.",
+    "highlights": [
+      "Over 200 minutes of video footage with 314,843 training frames and 77,345 testing frames.",
+      "First video anomaly benchmark captured in Vietnamese urban settings (roads, storefronts, parking lots).",
+      "Covers 6 distinct classes of anomalies across 18 diverse backgrounds and illumination conditions."
+    ],
+    "githubUrl": "https://github.com/nguyenvd-uit/uit-together-dataset/blob/main/UIT-Anomaly.md",
+    "paperUrl": "https://github.com/nguyenvd-uit/uit-together-dataset/blob/main/UIT-Anomaly.md",
+    "tags": [
+      "Video Anomaly Detection",
+      "Urban Surveillance",
+      "Crime Detection",
+      "Vietnamese Scenes"
+    ]
+  },
+  {
+    "id": "vnanomaly",
+    "title": "VNAnomaly",
+    "year": 2022,
+    "image": "/images/projects/VNAnomaly.png",
+    "description": "The VNAnomaly dataset consists of 89 training videos and 96 evaluating videos capturing real-world unsupervised anomalies in Vietnamese streets: fighting, assault, vandalism, and robbery.",
+    "highlights": [
+      "Unsupervised anomaly benchmark tailored for Vietnamese public street safety.",
+      "578,609 training frames and 75,214 evaluating frames—substantially larger than standard benchmarks.",
+      "36 distinct camera scenes triple the scene diversity of the ShanghaiTech dataset."
+    ],
+    "githubUrl": "https://github.com/nguyenvd-uit/uit-together-dataset/blob/main/VNAnomaly.md",
+    "paperUrl": "https://github.com/nguyenvd-uit/uit-together-dataset/blob/main/VNAnomaly.md",
+    "tags": [
+      "Unsupervised Learning",
+      "Video Anomaly Detection",
+      "Street Violence Detection",
+      "Public Safety"
+    ]
+  },
+  {
+    "id": "uit-tastet21",
+    "title": "UIT-TASTET21",
+    "year": 2022,
+    "image": "/images/projects/uit-tastet.jpg",
+    "description": "UIT-TASTET21 presents 77,000 images divided into 63,840 training and 14,041 test images covering 18 traditional dishes and festive delicacies typically prepared during the Vietnamese Lunar New Year (Tet).",
+    "highlights": [
+      "77,000 images representing 18 traditional Vietnamese Tet holiday delicacies.",
+      "Includes rare and culturally significant festive foods (Banh in, Candied Ginger, Candied Kumquat).",
+      "High visual noise from tableware, celebratory tablecloths, and festive decorative elements."
+    ],
+    "githubUrl": "https://github.com/nguyenvd-uit/uit-together-dataset/blob/main/UIT-TASTET21.md",
+    "paperUrl": "https://github.com/nguyenvd-uit/uit-together-dataset/blob/main/UIT-TASTET21.md",
+    "tags": [
+      "Food Recognition",
+      "Tet Holiday",
+      "Vietnamese Traditions",
+      "Culinary AI"
+    ]
+  },
+  {
+    "id": "uit-vinadeves22",
+    "title": "UIT-VinaDeveS22",
+    "year": 2022,
+    "image": "/images/projects/uit-vinadeves22.jpg",
+    "description": "A real-world traffic surveillance video dataset collected from the Vietnam Department of Transportation portal, presenting realistic traffic density, road topologies, and meteorological variations for computer vision models.",
+    "highlights": [
+      "Official DOT portal source reflecting genuine Vietnamese metropolitan traffic dynamics.",
+      "6 multi-camera perspectives across crossroads, single carriageways, and dual carriageways.",
+      "Diverse meteorological conditions including daytime, nighttime, clear weather, and heavy rain."
+    ],
+    "githubUrl": "https://github.com/nguyenvd-uit/uit-together-dataset/blob/main/UIT-VinaDeveS22.md",
+    "paperUrl": "https://github.com/nguyenvd-uit/uit-together-dataset/blob/main/UIT-VinaDeveS22.md",
+    "tags": [
+      "Traffic Surveillance",
+      "DOT Cameras",
+      "Adverse Weather",
+      "Vehicle Tracking"
+    ]
+  },
+  {
+    "id": "uit-dodv-ext",
+    "title": "UIT-DODV-Ext",
+    "year": 2022,
+    "image": "/images/projects/uit-dodv-ext.PNG",
+    "description": "UIT-DODV-Ext is the largest Vietnamese document image dataset with 5,000 images across textbooks and scientific papers for Table, Figure, and Caption detection, captured via smartphones, flatbed scanners, and PDF conversions.",
+    "highlights": [
+      "5,000 document images spanning secondary textbooks and peer-reviewed scientific journals.",
+      "Multi-source capture: Smartphone cameras, physical hardware scanners, and direct PDF renderings.",
+      "Robust layout analysis across single-column, two-column, and reform textbook layouts."
+    ],
+    "githubUrl": "https://github.com/nguyenvd-uit/uit-together-dataset/blob/main/UIT-DODV-Ext.md",
+    "paperUrl": "https://github.com/nguyenvd-uit/uit-together-dataset/blob/main/UIT-DODV-Ext.md",
+    "tags": [
+      "Document AI",
+      "Textbook Layout",
+      "Caption Recognition",
+      "Large Benchmark"
+    ]
+  }
+]

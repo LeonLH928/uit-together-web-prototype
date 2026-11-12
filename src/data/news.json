@@ -1,0 +1,42 @@
+[
+  {
+    "id": "news-1",
+    "title": "New Paper Published in IEEE Access (SCIE, Q1, IF: 3.4)",
+    "date": "2024-01-20",
+    "summary": "Our paper 'Aerial Data Exploration: An In-Depth Study from Horizontal to Oriented Viewpoint' has been officially published in IEEE Access.",
+    "category": "Publication",
+    "url": "https://ieeexplore.ieee.org/abstract/document/10453557"
+  },
+  {
+    "id": "news-2",
+    "title": "Paper Accepted at Pattern Recognition Letters (SCIE, Q1, IF: 5.1)",
+    "date": "2023-09-15",
+    "summary": "Congratulations to Dr. Khang Nguyen and co-authors on the acceptance of 'Improving human–object interaction with auxiliary semantic information'.",
+    "category": "Publication",
+    "url": "https://www.sciencedirect.com/science/article/abs/pii/S0167865523002611"
+  },
+  {
+    "id": "news-3",
+    "title": "Release of UIT-ADrone Dataset for Traffic Anomaly Detection",
+    "date": "2023-06-10",
+    "summary": "UIT-Together releases UIT-ADrone, a benchmark dataset for real-time traffic anomaly detection using UAV aerial streams.",
+    "category": "Dataset",
+    "url": "https://github.com/UIT-Together"
+  },
+  {
+    "id": "news-4",
+    "title": "10 Conference Papers Presented at REV-ECIT, SOICT & MAPR 2023",
+    "date": "2023-11-25",
+    "summary": "Lab members successfully presented 10 papers across REV-ECIT 2023, SOICT 2023, and MAPR 2023, winning high praise for aerial detection benchmarks.",
+    "category": "Award",
+    "url": "/papers"
+  },
+  {
+    "id": "news-5",
+    "title": "Graduate Thesis Defenses Successfully Concluded",
+    "date": "2023-12-05",
+    "summary": "Congratulations to our graduate students on their outstanding master thesis defenses in Computer Vision and Deep Learning.",
+    "category": "Defense",
+    "url": "/team"
+  }
+]

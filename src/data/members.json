@@ -1,0 +1,1431 @@
+[
+  {
+    "id": "khang-nguyen",
+    "name": "TS. Nguyễn Tấn Trần Minh Khang",
+    "role": "Faculty / PI",
+    "position": "Vice President / Head of Research Group",
+    "email": "khangnttm@uit.edu.vn",
+    "image": "/images/team/thay_khang.jpg",
+    "bio": "Vice President of University of Information Technology (VNU-HCM). Leading research in Computer Vision, Pattern Recognition, and Machine Learning.",
+    "scholar": "https://scholar.google.com/citations?user=G45K7g4AAAAJ",
+    "github": "https://github.com/UIT-Together",
+    "alum": false
+  },
+  {
+    "id": "nguyen-vo",
+    "name": "TS. Võ Duy Nguyên",
+    "role": "Faculty / PI",
+    "position": "Senior Researcher & Lecturer",
+    "email": "nguyenvd@uit.edu.vn",
+    "image": "/images/team/thay_nguyen.jpg",
+    "bio": "Doctor of Computer Science at UIT VNU-HCM. Specializing in Deep Learning for Aerial Imagery, Object Detection, and Document Analysis.",
+    "scholar": "https://scholar.google.com/citations?user=nguyenvd-uit",
+    "github": "https://github.com/nguyenvd-uit",
+    "alum": false
+  },
+  {
+    "id": "tam-nguyen",
+    "name": "TS. Tam V. Nguyen",
+    "role": "Faculty / PI",
+    "position": "Affiliated Principal Researcher",
+    "email": "tamnguyen@uit.edu.vn",
+    "image": "/images/team/thay_tam.jpg",
+    "bio": "Associate Professor & Senior Researcher. Research in Video Analysis, Traffic Anomaly Detection, and Medical Imaging.",
+    "scholar": "https://scholar.google.com",
+    "github": "https://github.com/UIT-Together",
+    "alum": false
+  },
+  {
+    "id": "tung-tran",
+    "name": "TS. Trần Minh Tùng",
+    "role": "Researcher",
+    "position": "Postdoctoral Researcher",
+    "email": "tungtm@uit.edu.vn",
+    "image": "/images/team/thay_tung.jpg",
+    "bio": "Researching Anomaly Detection in Images and Videos, Drone Navigation, and Remote Sensing.",
+    "scholar": "https://scholar.google.com",
+    "github": "https://github.com/UIT-Together",
+    "alum": false
+  },
+  {
+    "id": "thanh-hiep",
+    "name": "ThS. Nguyễn Thành Hiệp",
+    "role": "Researcher",
+    "position": "Researcher & Lecturer",
+    "email": "hiepnt@uit.edu.vn",
+    "image": "/images/team/thay_hiep.jpg",
+    "bio": "Focusing on Object Detection with Transformer (DINO, DETR), Deep Learning Architectures.",
+    "scholar": "https://scholar.google.com",
+    "github": "https://github.com/UIT-Together",
+    "alum": false
+  },
+  {
+    "id": "doanh-bui",
+    "name": "TS. Bùi Cao Doanh",
+    "role": "Researcher",
+    "position": "PhD Researcher / Supervisor",
+    "email": "doanhbc@uit.edu.vn",
+    "image": "/images/team/DoanhCBui.png",
+    "bio": "PhD in Computer Vision & Deep Learning, text-based image captioning, and dynamic neural architectures.",
+    "scholar": "https://caodoanh2001.github.io/publications/",
+    "github": "https://github.com/caodoanh2001",
+    "alum": false
+  },
+  {
+    "id": "khanh-nguyen",
+    "name": "NCS. Nguyễn Duy Khánh",
+    "role": "Researcher",
+    "position": "PhD Candidate / Researcher",
+    "email": "khanhnd@uit.edu.vn",
+    "image": "/images/team/khanh_nguyen.jpg",
+    "bio": "PhD researcher specializing in deep learning architectures and video analytics.",
+    "alum": false
+  },
+  {
+    "id": "dung-truong",
+    "name": "ThS. Trương Dũng",
+    "role": "Graduate Researcher",
+    "position": "Master Student / Research Assistant",
+    "email": "dungtruong@uit.edu.vn",
+    "image": "/images/team/dung_truong.jpg",
+    "bio": "Vietnamese Document Analysis, Anchor-free detection models, GaDocNet.",
+    "scholar": "https://scholar.google.com",
+    "github": "https://github.com/UIT-Together",
+    "alum": false
+  },
+  {
+    "id": "long-duong",
+    "name": "ThS. Dương Long",
+    "role": "Graduate Researcher",
+    "position": "Master Student / Research Assistant",
+    "email": "longduong@uit.edu.vn",
+    "image": "/images/team/long_duong.jpg",
+    "bio": "Aerial image detection, adverse weather object detection, Foggy-DOTA.",
+    "scholar": "https://scholar.google.com",
+    "github": "https://github.com/UIT-Together",
+    "alum": false
+  },
+  {
+    "id": "my-nguyen",
+    "name": "ThS. Nguyễn Hoàn Mỹ",
+    "role": "Graduate Researcher",
+    "position": "Master Student / Research Assistant",
+    "email": "mynguyen@uit.edu.vn",
+    "image": "/images/team/my_nguyen.jpg",
+    "bio": "Deep learning architectures and multimodal vision analytics.",
+    "alum": false
+  },
+  {
+    "id": "student-k2023-1-leducthanh",
+    "name": "Lê Đức Thành",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2023",
+    "image": "/images/team/k2023/Thanh.jpg",
+    "bio": "Undergraduate Researcher Cohort K2023 - UIT-Together Research Group",
+    "alum": false
+  },
+  {
+    "id": "student-k2023-2-nguyenngocthanhphuong",
+    "name": "Nguyễn Ngọc Thanh Phương",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2023",
+    "image": "/images/team/k2023/Phuong.jpg",
+    "bio": "Undergraduate Researcher Cohort K2023 - Multimodal Learning & Vision",
+    "alum": false
+  },
+  {
+    "id": "student-k2023-3-tranminhvu",
+    "name": "Trần Minh Vũ",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2023",
+    "image": "/images/team/k2023/Vu.jpg",
+    "bio": "Undergraduate Researcher Cohort K2023 - Aerial Imagery & Deep Learning",
+    "alum": false
+  },
+  {
+    "id": "student-k2023-4-huynhdienthuc",
+    "name": "Huỳnh Diên Thục",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2023",
+    "image": "/images/team/k2023/Thuc.jpg",
+    "bio": "Undergraduate Researcher Cohort K2023 - Document AI & Computer Vision",
+    "alum": false
+  },
+  {
+    "id": "student-k2023-5-phamtranxuantien",
+    "name": "Phạm Trần Xuân Tiến",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2023",
+    "image": "",
+    "bio": "Undergraduate Researcher Cohort K2023 - UIT-Together Research Group",
+    "alum": false
+  },
+  {
+    "id": "student-k2023-6-huynhnhatthanh",
+    "name": "Huỳnh Nhật Thanh",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2023",
+    "image": "",
+    "bio": "Undergraduate Researcher Cohort K2023 - UIT-Together Research Group",
+    "alum": false
+  },
+  {
+    "id": "student-k2023-7-dominhdung",
+    "name": "Đỗ Minh Dũng",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2023",
+    "image": "",
+    "bio": "Undergraduate Researcher Cohort K2023 - UIT-Together Research Group",
+    "alum": false
+  },
+  {
+    "id": "student-k2022-1-hminhtr",
+    "name": "Hồ Minh Trí",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2022",
+    "image": "",
+    "bio": "Nghiên cứu sinh viên Khóa K2022 - UIT-Together Research Group",
+    "alum": false
+  },
+  {
+    "id": "student-k2022-2-hunhnhttr",
+    "name": "Huỳnh Nhựt Trí",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2022",
+    "image": "",
+    "bio": "Nghiên cứu sinh viên Khóa K2022 - UIT-Together Research Group",
+    "alum": false
+  },
+  {
+    "id": "student-k2022-3-nguynthtuytl",
+    "name": "Nguyễn Thị Tuyết Loan",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2022",
+    "image": "",
+    "bio": "Nghiên cứu sinh viên Khóa K2022 - UIT-Together Research Group",
+    "alum": false
+  },
+  {
+    "id": "student-k2022-4-hthbchphng",
+    "name": "Hồ Thị Bích Phượng",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2022",
+    "image": "",
+    "bio": "Nghiên cứu sinh viên Khóa K2022 - UIT-Together Research Group",
+    "alum": false
+  },
+  {
+    "id": "student-k2022-5-onquanghuy",
+    "name": "Đoàn Quang Huy",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2022",
+    "image": "",
+    "bio": "Nghiên cứu sinh viên Khóa K2022 - UIT-Together Research Group",
+    "alum": false
+  },
+  {
+    "id": "student-k2022-6-caovnhong",
+    "name": "Cao Văn Hoàng",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2022",
+    "image": "",
+    "bio": "Nghiên cứu sinh viên Khóa K2022 - UIT-Together Research Group",
+    "alum": false
+  },
+  {
+    "id": "student-k2022-7-phmhongduy",
+    "name": "Phạm Hoàng Duy",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2022",
+    "image": "",
+    "bio": "Nghiên cứu sinh viên Khóa K2022 - UIT-Together Research Group",
+    "alum": false
+  },
+  {
+    "id": "student-k2022-8-nguynhunhduy",
+    "name": "Nguyễn Huỳnh Duy Hiếu",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2022",
+    "image": "",
+    "bio": "Nghiên cứu sinh viên Khóa K2022 - UIT-Together Research Group",
+    "alum": false
+  },
+  {
+    "id": "student-k2022-9-thonghuy",
+    "name": "Tô Hoàng Huy",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2022",
+    "image": "",
+    "bio": "Nghiên cứu sinh viên Khóa K2022 - UIT-Together Research Group",
+    "alum": false
+  },
+  {
+    "id": "student-k2022-10-bithihong",
+    "name": "Bùi Thái Hoàng",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2022",
+    "image": "",
+    "bio": "Nghiên cứu sinh viên Khóa K2022 - UIT-Together Research Group",
+    "alum": false
+  },
+  {
+    "id": "student-k2022-11-nguynduyn",
+    "name": "Nguyễn Duy Ân",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2022",
+    "image": "",
+    "bio": "Nghiên cứu sinh viên Khóa K2022 - UIT-Together Research Group",
+    "alum": false
+  },
+  {
+    "id": "student-k2022-12-nglbnh",
+    "name": "Đặng Lê Bình",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2022",
+    "image": "",
+    "bio": "Nghiên cứu sinh viên Khóa K2022 - UIT-Together Research Group",
+    "alum": false
+  },
+  {
+    "id": "student-k2022-13-nguyntnduy",
+    "name": "Nguyễn Tấn Duy",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2022",
+    "image": "",
+    "bio": "Nghiên cứu sinh viên Khóa K2022 - UIT-Together Research Group",
+    "alum": false
+  },
+  {
+    "id": "student-k2022-14-tngthanhthin",
+    "name": "Tăng Thanh Thiện",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2022",
+    "image": "",
+    "bio": "Nghiên cứu sinh viên Khóa K2022 - UIT-Together Research Group",
+    "alum": false
+  },
+  {
+    "id": "student-k2022-15-trnquanganhk",
+    "name": "Trần Quang Anh Kiệt",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2022",
+    "image": "",
+    "bio": "Nghiên cứu sinh viên Khóa K2022 - UIT-Together Research Group",
+    "alum": false
+  },
+  {
+    "id": "student-k2022-16-trnnguynchhu",
+    "name": "Trần Nguyễn Chí Huy",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2022",
+    "image": "",
+    "bio": "Nghiên cứu sinh viên Khóa K2022 - UIT-Together Research Group",
+    "alum": false
+  },
+  {
+    "id": "student-k2022-17-ondanhd",
+    "name": "Đoàn Danh Dự",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2022",
+    "image": "",
+    "bio": "Nghiên cứu sinh viên Khóa K2022 - UIT-Together Research Group",
+    "alum": false
+  },
+  {
+    "id": "student-k2022-18-lduynguyn",
+    "name": "Lê Duy Nguyên",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2022",
+    "image": "",
+    "bio": "Nghiên cứu sinh viên Khóa K2022 - UIT-Together Research Group",
+    "alum": false
+  },
+  {
+    "id": "student-k2022-19-nguynvbnh",
+    "name": "Nguyễn Vũ Bình",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2022",
+    "image": "",
+    "bio": "Nghiên cứu sinh viên Khóa K2022 - UIT-Together Research Group",
+    "alum": false
+  },
+  {
+    "id": "student-k2022-20-lhu",
+    "name": "Lê Hữu Độ",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2022",
+    "image": "",
+    "bio": "Nghiên cứu sinh viên Khóa K2022 - UIT-Together Research Group",
+    "alum": false
+  },
+  {
+    "id": "student-k2022-21-nghnggiang",
+    "name": "Ngô Hương Giang",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2022",
+    "image": "",
+    "bio": "Nghiên cứu sinh viên Khóa K2022 - UIT-Together Research Group",
+    "alum": false
+  },
+  {
+    "id": "student-k2022-22-hkimthinnga",
+    "name": "Hồ Kim Thiên Nga",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2022",
+    "image": "",
+    "bio": "Nghiên cứu sinh viên Khóa K2022 - UIT-Together Research Group",
+    "alum": false
+  },
+  {
+    "id": "student-k2022-23-trnthmngtrcn",
+    "name": "Trần Thị Mộng Trúc Ngân",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2022",
+    "image": "",
+    "bio": "Nghiên cứu sinh viên Khóa K2022 - UIT-Together Research Group",
+    "alum": false
+  },
+  {
+    "id": "student-k2022-24-hunhgiabo",
+    "name": "Huỳnh Gia Bảo",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2022",
+    "image": "",
+    "bio": "Nghiên cứu sinh viên Khóa K2022 - UIT-Together Research Group",
+    "alum": false
+  },
+  {
+    "id": "student-k2022-25-trnhunhnhuyn",
+    "name": "Trần Huỳnh Nhã Uyên",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2022",
+    "image": "",
+    "bio": "Nghiên cứu sinh viên Khóa K2022 - UIT-Together Research Group",
+    "alum": false
+  },
+  {
+    "id": "student-k2022-26-phannguynkho",
+    "name": "Phan Nguyên Khoa",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2022",
+    "image": "",
+    "bio": "Nghiên cứu sinh viên Khóa K2022 - UIT-Together Research Group",
+    "alum": false
+  },
+  {
+    "id": "student-k2022-27-trntutnh",
+    "name": "Trần Tuệ Tánh",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2022",
+    "image": "",
+    "bio": "Nghiên cứu sinh viên Khóa K2022 - UIT-Together Research Group",
+    "alum": false
+  },
+  {
+    "id": "student-k2022-28-nguynduyv",
+    "name": "Nguyễn Duy Vũ",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2022",
+    "image": "",
+    "bio": "Nghiên cứu sinh viên Khóa K2022 - UIT-Together Research Group",
+    "alum": false
+  },
+  {
+    "id": "student-k2022-29-trnnhttn",
+    "name": "Trần Nhật Tân",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2022",
+    "image": "",
+    "bio": "Nghiên cứu sinh viên Khóa K2022 - UIT-Together Research Group",
+    "alum": false
+  },
+  {
+    "id": "student-k2022-30-nguynqucthng",
+    "name": "Nguyễn Quốc Thắng",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2022",
+    "image": "",
+    "bio": "Nghiên cứu sinh viên Khóa K2022 - UIT-Together Research Group",
+    "alum": false
+  },
+  {
+    "id": "student-k2022-31-nguynthnhti",
+    "name": "Nguyễn Thành Tài",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2022",
+    "image": "",
+    "bio": "Nghiên cứu sinh viên Khóa K2022 - UIT-Together Research Group",
+    "alum": false
+  },
+  {
+    "id": "student-k2022-32-lton",
+    "name": "Lê Toàn",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2022",
+    "image": "",
+    "bio": "Nghiên cứu sinh viên Khóa K2022 - UIT-Together Research Group",
+    "alum": false
+  },
+  {
+    "id": "student-k2022-33-nguynxunquan",
+    "name": "Nguyễn Xuân Quang",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2022",
+    "image": "",
+    "bio": "Nghiên cứu sinh viên Khóa K2022 - UIT-Together Research Group",
+    "alum": false
+  },
+  {
+    "id": "student-k2021-1-trntrngkhim",
+    "name": "Trần Trọng Khiêm",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2021",
+    "image": "",
+    "bio": "Nghiên cứu sinh viên Khóa K2021 - UIT-Together Research Group",
+    "alum": false
+  },
+  {
+    "id": "student-k2021-2-nguynhunhphc",
+    "name": "Nguyễn Huỳnh Phúc Lâm",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2021",
+    "image": "",
+    "bio": "Nghiên cứu sinh viên Khóa K2021 - UIT-Together Research Group",
+    "alum": false
+  },
+  {
+    "id": "student-k2021-3-nguynhunhphc",
+    "name": "Nguyễn Huỳnh Phúc Thịnh",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2021",
+    "image": "",
+    "bio": "Nghiên cứu sinh viên Khóa K2021 - UIT-Together Research Group",
+    "alum": false
+  },
+  {
+    "id": "student-k2021-4-nguyncthnhdu",
+    "name": "Nguyễn Đức Thành Duy",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2021",
+    "image": "",
+    "bio": "Nghiên cứu sinh viên Khóa K2021 - UIT-Together Research Group",
+    "alum": false
+  },
+  {
+    "id": "student-k2021-5-nguynminhphp",
+    "name": "Nguyễn Minh Pháp",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2021",
+    "image": "",
+    "bio": "Nghiên cứu sinh viên Khóa K2021 - UIT-Together Research Group",
+    "alum": false
+  },
+  {
+    "id": "student-k2021-6-nguyncaoqucb",
+    "name": "Nguyễn Cao Quốc Bảo",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2021",
+    "image": "",
+    "bio": "Nghiên cứu sinh viên Khóa K2021 - UIT-Together Research Group",
+    "alum": false
+  },
+  {
+    "id": "student-k2021-7-phmtrnanhkhi",
+    "name": "Phạm Trần Anh Khôi",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2021",
+    "image": "",
+    "bio": "Nghiên cứu sinh viên Khóa K2021 - UIT-Together Research Group",
+    "alum": false
+  },
+  {
+    "id": "student-k2021-8-phcqun",
+    "name": "Phù Đức Quân",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2021",
+    "image": "",
+    "bio": "Nghiên cứu sinh viên Khóa K2021 - UIT-Together Research Group",
+    "alum": false
+  },
+  {
+    "id": "student-k2021-9-lthbchloan",
+    "name": "Lê Thị Bích Loan",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2021",
+    "image": "",
+    "bio": "Nghiên cứu sinh viên Khóa K2021 - UIT-Together Research Group",
+    "alum": false
+  },
+  {
+    "id": "student-k2021-10-phmnguynnhtd",
+    "name": "Phạm Nguyễn Nhật Duy",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2021",
+    "image": "",
+    "bio": "Nghiên cứu sinh viên Khóa K2021 - UIT-Together Research Group",
+    "alum": false
+  },
+  {
+    "id": "student-k2021-11-hnhmnh",
+    "name": "Hồ Đình Mạnh",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2021",
+    "image": "",
+    "bio": "Nghiên cứu sinh viên Khóa K2021 - UIT-Together Research Group",
+    "alum": false
+  },
+  {
+    "id": "student-k2021-12-nguynphchng",
+    "name": "Nguyễn Phước Hưng",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2021",
+    "image": "",
+    "bio": "Nghiên cứu sinh viên Khóa K2021 - UIT-Together Research Group",
+    "alum": false
+  },
+  {
+    "id": "student-k2021-13-nguynhonganh",
+    "name": "Nguyễn Hoàng Anh",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2021",
+    "image": "",
+    "bio": "Nghiên cứu sinh viên Khóa K2021 - UIT-Together Research Group",
+    "alum": false
+  },
+  {
+    "id": "student-k2021-14-trnngng",
+    "name": "Trần Đông Đông",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2021",
+    "image": "",
+    "bio": "Nghiên cứu sinh viên Khóa K2021 - UIT-Together Research Group",
+    "alum": false
+  },
+  {
+    "id": "student-k2021-15-vhong",
+    "name": "Vũ Hoàng",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2021",
+    "image": "",
+    "bio": "Nghiên cứu sinh viên Khóa K2021 - UIT-Together Research Group",
+    "alum": false
+  },
+  {
+    "id": "student-k2021-16-vxuntho",
+    "name": "Võ Xuân Thảo",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2021",
+    "image": "",
+    "bio": "Nghiên cứu sinh viên Khóa K2021 - UIT-Together Research Group",
+    "alum": false
+  },
+  {
+    "id": "student-k2021-17-nguyntrngnin",
+    "name": "Nguyễn Trọng Ninh",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2021",
+    "image": "",
+    "bio": "Nghiên cứu sinh viên Khóa K2021 - UIT-Together Research Group",
+    "alum": false
+  },
+  {
+    "id": "student-k2021-18-lthbchhng",
+    "name": "Lê Thị Bích Hằng",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2021",
+    "image": "",
+    "bio": "Nghiên cứu sinh viên Khóa K2021 - UIT-Together Research Group",
+    "alum": false
+  },
+  {
+    "id": "student-k2021-19-trnminhchnh",
+    "name": "Trần Minh Chính",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2021",
+    "image": "",
+    "bio": "Nghiên cứu sinh viên Khóa K2021 - UIT-Together Research Group",
+    "alum": false
+  },
+  {
+    "id": "student-k2021-20-nguyntunkhan",
+    "name": "Nguyễn Tuấn Khang",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2021",
+    "image": "",
+    "bio": "Nghiên cứu sinh viên Khóa K2021 - UIT-Together Research Group",
+    "alum": false
+  },
+  {
+    "id": "student-k2021-21-bithnh",
+    "name": "Bùi Thị Như Ý",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2021",
+    "image": "",
+    "bio": "Nghiên cứu sinh viên Khóa K2021 - UIT-Together Research Group",
+    "alum": false
+  },
+  {
+    "id": "student-k2021-22-trngnguynphc",
+    "name": "Trương Nguyễn Phước Trí",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2021",
+    "image": "",
+    "bio": "Nghiên cứu sinh viên Khóa K2021 - UIT-Together Research Group",
+    "alum": false
+  },
+  {
+    "id": "student-k2021-23-trntunv",
+    "name": "Trần Tuấn Vũ",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2021",
+    "image": "",
+    "bio": "Nghiên cứu sinh viên Khóa K2021 - UIT-Together Research Group",
+    "alum": false
+  },
+  {
+    "id": "student-k2021-24-nguynthibnh",
+    "name": "Nguyễn Thái Bình",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2021",
+    "image": "",
+    "bio": "Nghiên cứu sinh viên Khóa K2021 - UIT-Together Research Group",
+    "alum": false
+  },
+  {
+    "id": "student-k2021-25-mainhkhi",
+    "name": "Mai Đình Khôi",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2021",
+    "image": "",
+    "bio": "Nghiên cứu sinh viên Khóa K2021 - UIT-Together Research Group",
+    "alum": false
+  },
+  {
+    "id": "student-k2021-26-coffee",
+    "name": "Coffee",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2021",
+    "image": "",
+    "bio": "Nghiên cứu sinh viên Khóa K2021 - UIT-Together Research Group",
+    "alum": false
+  },
+  {
+    "id": "student-k2021-27-lththuhin",
+    "name": "Lê Thị Thu Hiền",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2021",
+    "image": "",
+    "bio": "Nghiên cứu sinh viên Khóa K2021 - UIT-Together Research Group",
+    "alum": false
+  },
+  {
+    "id": "student-k2021-28-trnngcnhtvy",
+    "name": "Trần Ngọc Nhật Vy",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2021",
+    "image": "",
+    "bio": "Nghiên cứu sinh viên Khóa K2021 - UIT-Together Research Group",
+    "alum": false
+  },
+  {
+    "id": "student-k2021-29-hththanhtho",
+    "name": "Hồ Thị Thanh Thảo",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2021",
+    "image": "",
+    "bio": "Nghiên cứu sinh viên Khóa K2021 - UIT-Together Research Group",
+    "alum": false
+  },
+  {
+    "id": "student-k2020-1-bilongv",
+    "name": "Bùi Long Vũ",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2020",
+    "image": "/images/team/k2020/BuiLongVu.jpg",
+    "bio": "Optimizers evaluation for Deformable-DETR",
+    "alum": false
+  },
+  {
+    "id": "student-k2020-2-inhnhtminh",
+    "name": "Đinh Nhật Minh",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2020",
+    "image": "/images/team/k2020/DinhNhatMinh.jpg",
+    "bio": "Deformable-DETR for natural disaster assessment",
+    "alum": false
+  },
+  {
+    "id": "student-k2020-3-dngthanhbokh",
+    "name": "Dương Thanh Bảo Khánh",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2020",
+    "image": "/images/team/k2020/DuongThanhBaoKhanh.jpg",
+    "bio": "Real-time one-stage detection on recyclable waste",
+    "alum": false
+  },
+  {
+    "id": "student-k2020-4-hunhvittunki",
+    "name": "Huỳnh Việt Tuấn Kiệt",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2020",
+    "image": "/images/team/k2020/HuynhVietTuanKiet.jpg",
+    "bio": "YOLOX for Vietnamese document object detection",
+    "alum": false
+  },
+  {
+    "id": "student-k2020-5-lichthin",
+    "name": "Lại Chí Thiện",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2020",
+    "image": "/images/team/k2020/LaiChiThien.jpg",
+    "bio": "Deep learning architectures for aerial tracking",
+    "alum": false
+  },
+  {
+    "id": "student-k2020-6-lthphngvy",
+    "name": "Lê Thị Phương Vy",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2020",
+    "image": "/images/team/k2020/LeThiPhuongVy.jpg",
+    "bio": "RepPoints representation in aerial images",
+    "alum": false
+  },
+  {
+    "id": "student-k2020-7-ltrngho",
+    "name": "Lê Trọng Hảo",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2020",
+    "image": "/images/team/k2020/LeTrongHao.jpg",
+    "bio": "Deep Learning & Aerial Imagery",
+    "alum": false
+  },
+  {
+    "id": "student-k2020-8-ltrngngchi",
+    "name": "Lê Trương Ngọc Hải",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2020",
+    "image": "/images/team/k2020/LeTruongNgocHai.jpg",
+    "bio": "Consistent label assignment for document detection",
+    "alum": false
+  },
+  {
+    "id": "student-k2020-9-lvitthnh",
+    "name": "Lê Viết Thịnh",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2020",
+    "image": "/images/team/k2020/LeVietThinh.jpg",
+    "bio": "Human-Object Interaction & RepPoints detection",
+    "alum": false
+  },
+  {
+    "id": "student-k2020-10-ngvntunlu",
+    "name": "Ngô Văn Tuấn Lưu",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2020",
+    "image": "/images/team/k2020/NgoVanTuanLuu.jpg",
+    "bio": "One-stage object detection for Robocup vision",
+    "alum": false
+  },
+  {
+    "id": "student-k2020-11-nguyncanhphc",
+    "name": "Nguyễn Đức Anh Phúc",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2020",
+    "image": "/images/team/k2020/NguyenDucAnhPhuc.jpg",
+    "bio": "Adverse weather object detection (Foggy-DOTA)",
+    "alum": false
+  },
+  {
+    "id": "student-k2020-12-nguynnhttrng",
+    "name": "Nguyễn Nhật Trường",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2020",
+    "image": "/images/team/k2020/NguyenNhatTruong.jpg",
+    "bio": "FoveaBox with consistent label assignment distillation",
+    "alum": false
+  },
+  {
+    "id": "student-k2020-13-nguynththanh",
+    "name": "Nguyễn Thị Thanh Trúc",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2020",
+    "image": "/images/team/k2020/NguyenThiThanhTruc.jpg",
+    "bio": "DeTr Transformer models for aerial vehicle detection",
+    "alum": false
+  },
+  {
+    "id": "student-k2020-14-nguyntrnphca",
+    "name": "Nguyễn Trần Phúc An",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2020",
+    "image": "/images/team/k2020/NguyenTranPhucAn.jpg",
+    "bio": "Nighttime aerial object detection",
+    "alum": false
+  },
+  {
+    "id": "student-k2020-15-nguynvnhp",
+    "name": "Nguyễn Văn Hợp",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2020",
+    "image": "/images/team/k2020/NguyenVanHop.jpg",
+    "bio": "Deep learning for intelligent transportation systems",
+    "alum": false
+  },
+  {
+    "id": "student-k2020-16-nguynvnton",
+    "name": "Nguyễn Văn Toàn",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2020",
+    "image": "/images/team/k2020/NguyenVanToan.jpg",
+    "bio": "YOLOX page object detection in document images",
+    "alum": false
+  },
+  {
+    "id": "student-k2020-17-phmtnti",
+    "name": "Phạm Tấn Tài",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2020",
+    "image": "/images/team/k2020/PhamTanTai.jpg",
+    "bio": "Generic RoI Extractor & Dynamic R-CNN",
+    "alum": false
+  },
+  {
+    "id": "student-k2020-18-trnnguynbo",
+    "name": "Trần Nguyên Bảo",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2020",
+    "image": "/images/team/k2020/TranNguyenBao.jpg",
+    "bio": "Side-aware boundary localization in aerial images",
+    "alum": false
+  },
+  {
+    "id": "student-k2020-19-trnthmquyn",
+    "name": "Trần Thị Mỹ Quyên",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2020",
+    "image": "/images/team/k2020/TranThiMyQuyen.jpg",
+    "bio": "Double-Head vehicle detection in aerial images",
+    "alum": false
+  },
+  {
+    "id": "student-k2020-20-trngthanhthn",
+    "name": "Trương Thanh Thắng",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2020",
+    "image": "/images/team/k2020/TruongThanhThang.jpg",
+    "bio": "Oriented object detection in adverse aerial conditions",
+    "alum": false
+  },
+  {
+    "id": "student-k2020-21-vnnguynngchu",
+    "name": "Văn Nguyễn Ngọc Huyền",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2020",
+    "image": "/images/team/k2020/VanNguyenNgocHuyen.jpg",
+    "bio": "Human-Object Interaction queries (CASQ)",
+    "alum": false
+  },
+  {
+    "id": "student-k2019-1-bicaodoanh",
+    "name": "Bùi Cao Doanh",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant (Cohort K2019 Alumnus • Now Ph.D. Researcher)",
+    "cohort": "Cohort K2019",
+    "image": "/images/team/k2019/doanhcbui.jpg",
+    "bio": "Deep learning for facial emotion recognition; former K2019 student researcher, now Ph.D. Researcher & Supervisor at UIT-Together.",
+    "email": "doanhbc@uit.edu.vn",
+    "scholar": "https://caodoanh2001.github.io/publications/",
+    "github": "https://github.com/caodoanh2001",
+    "alum": true
+  },
+  {
+    "id": "student-k2019-2-trnhththanht",
+    "name": "Trịnh Thị Thanh Trúc",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2019",
+    "image": "/images/team/k2019/thanhtructrinhthi.jpg",
+    "bio": "Vietnamese benchmark for vehicle detection and realtime empirical evaluation",
+    "alum": true
+  },
+  {
+    "id": "student-k2019-3-bidng",
+    "name": "Bùi Dũng",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2019",
+    "image": "/images/team/k2019/dungbui.jpg",
+    "bio": "Deep feature representation for aerial objects",
+    "alum": true
+  },
+  {
+    "id": "student-k2018-1-trnbochu",
+    "name": "Trần Bảo Châu",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2018",
+    "image": "/images/team/k2018/baochau_tran.jpg",
+    "bio": "Multimodal deep learning and image captioning",
+    "alum": true
+  },
+  {
+    "id": "student-k2018-2-onthanhhiu",
+    "name": "Đoàn Thanh Hiếu",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2018",
+    "image": "/images/team/k2018/thanhhieu_doan.jpg",
+    "bio": "Facial recognition in aerial drone streaming",
+    "alum": true
+  },
+  {
+    "id": "student-k2018-3-phanthhngcc",
+    "name": "Phan Thị Hồng Cúc",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2018",
+    "image": "/images/team/k2018/hongcuc_phan.jpg",
+    "bio": "Vehicle detection in nighttime urban traffic",
+    "alum": true
+  },
+  {
+    "id": "student-k2018-4-hunhkhnhvy",
+    "name": "Huỳnh Khánh Vy",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2018",
+    "image": "/images/team/k2018/khanhvy_huynh.jpg",
+    "bio": "Feature extraction and image classification",
+    "alum": true
+  },
+  {
+    "id": "student-k2018-5-trnvnbo",
+    "name": "Trần Văn Bảo",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2018",
+    "image": "/images/team/k2018/vanbao_tran.jpg",
+    "bio": "UIT-DroneFog adverse weather detection benchmark",
+    "alum": true
+  },
+  {
+    "id": "student-k2018-6-trnminhtun",
+    "name": "Trần Minh Tuấn",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2018",
+    "image": "/images/team/k2018/tuanminh_tran.jpg",
+    "bio": "Human-object grouping for action recognition",
+    "alum": true
+  },
+  {
+    "id": "student-k2018-7-ngminhph",
+    "name": "Ngô Minh Phú",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2018",
+    "image": "/images/team/k2018/minhphu_ngo.jpg",
+    "bio": "Drone video streaming and surveillance AI",
+    "alum": true
+  },
+  {
+    "id": "student-k2018-8-nguyntrngthu",
+    "name": "Nguyễn Trọng Thuận",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2018",
+    "image": "/images/team/k2018/trongthuan_nguyen.jpg",
+    "bio": "Vietnamese document parsing, CDeRSNet & VinaFood21 dataset",
+    "alum": true
+  },
+  {
+    "id": "student-k2018-9-nguynquangth",
+    "name": "Nguyễn Quang Thuận",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2018",
+    "image": "/images/team/k2018/quangthuan_nguyen.jpg",
+    "bio": "High performance Vietnamese document detection",
+    "alum": true
+  },
+  {
+    "id": "student-k2018-10-vngct",
+    "name": "Vũ Ngọc Tú",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2018",
+    "image": "/images/team/k2018/ngoctu_vu.jpg",
+    "bio": "Traffic anomaly detection in UAV video surveillance",
+    "alum": true
+  },
+  {
+    "id": "student-k2018-11-inhthnhton",
+    "name": "Đinh Thành Toàn",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2018",
+    "image": "/images/team/k2018/thanhtoan_dinh.jpg",
+    "bio": "Loss functions for surveillance video anomaly detection",
+    "alum": true
+  },
+  {
+    "id": "student-k2018-12-nguyntngvi",
+    "name": "Nguyễn Tường Vi",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2018",
+    "image": "/images/team/k2018/tuongvi_nguyen.jpg",
+    "bio": "Feature representation in aerial remote sensing",
+    "alum": true
+  },
+  {
+    "id": "student-k2018-13-vtrungdng",
+    "name": "Võ Trung Dũng",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2018",
+    "image": "/images/team/k2018/trungdung_vo.jpg",
+    "bio": "UIT-Anomaly benchmark dataset engineering",
+    "alum": true
+  },
+  {
+    "id": "student-k2018-14-vtrunghiu",
+    "name": "Võ Trung Hiếu",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2018",
+    "image": "/images/team/k2018/trunghieu_vo.jpg",
+    "bio": "Optical-flow & FenceGAN anomaly forecasting in surveillance",
+    "alum": true
+  },
+  {
+    "id": "student-k2018-15-phmcton",
+    "name": "Phạm Đức Toàn",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2018",
+    "image": "/images/team/k2018/ductoan_pham.jpg",
+    "bio": "Real-time object classification and tracking",
+    "alum": true
+  },
+  {
+    "id": "student-k2018-16-nguyncton",
+    "name": "Nguyễn Đức Toàn",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2018",
+    "image": "/images/team/k2018/ductoan_nguyen.jpg",
+    "bio": "Document image layout analysis and object parsing",
+    "alum": true
+  },
+  {
+    "id": "student-k2018-17-lminhphc",
+    "name": "Lê Minh Phước",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2018",
+    "image": "/images/team/k2018/minhphuoc_le.jpg",
+    "bio": "Deep learning for edge computing in UAVs",
+    "alum": true
+  },
+  {
+    "id": "student-k2017-1-trngdiulinh",
+    "name": "Trương Diệu Linh",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2017",
+    "image": "/images/team/k2018/dieulinh_truong.jpg",
+    "bio": "Parsing digitized Vietnamese paper documents",
+    "alum": true
+  },
+  {
+    "id": "student-k2017-2-hunhbchtuyn",
+    "name": "Huỳnh Bích Tuyền",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2017",
+    "image": "/images/team/k2018/bichtuyen_huynh.jpg",
+    "bio": "Computer vision models for healthcare diagnosis",
+    "alum": true
+  },
+  {
+    "id": "student-k2017-3-lngchuy",
+    "name": "Lê Ngọc Huy",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2017",
+    "image": "",
+    "bio": "Nghiên cứu sinh viên Khóa K2017 - UIT-Together Research Group",
+    "alum": true
+  },
+  {
+    "id": "student-k2017-4-lhongn",
+    "name": "Lê Hoàng Ân",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2017",
+    "image": "",
+    "bio": "Nghiên cứu sinh viên Khóa K2017 - UIT-Together Research Group",
+    "alum": true
+  },
+  {
+    "id": "student-k2017-5-vnhvinghim",
+    "name": "Vũ Đình Vi Nghiệm",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2017",
+    "image": "",
+    "bio": "Nghiên cứu sinh viên Khóa K2017 - UIT-Together Research Group",
+    "alum": true
+  },
+  {
+    "id": "student-k2016-1-hthingc",
+    "name": "Hồ Thái Ngọc",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2016",
+    "image": "/images/team/k2016/ngoc_ho.jpg",
+    "bio": "Nighttime vehicle detection and illumination enhancement",
+    "alum": true
+  },
+  {
+    "id": "student-k2016-2-phanvnhlong",
+    "name": "Phan Vĩnh Long",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2016",
+    "image": "/images/team/k2016/long_phan.jpg",
+    "bio": "Object detection under restricted visibility conditions",
+    "alum": true
+  },
+  {
+    "id": "student-k2016-3-nguynngha",
+    "name": "Nguyễn Nghĩa",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2016",
+    "image": "/images/team/k2016/nghia_nguyen.jpg",
+    "bio": "Recyclable waste dataset collection and benchmarking",
+    "alum": true
+  },
+  {
+    "id": "student-k2016-4-phmthhongmai",
+    "name": "Phạm Thị Hoàng Mai",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2016",
+    "image": "/images/team/k2016/mai_pham.jpg",
+    "bio": "YOLOv4 vehicle detection in metropolitan centers",
+    "alum": true
+  },
+  {
+    "id": "student-k2016-5-vthmt",
+    "name": "Võ Thị Mót",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2016",
+    "image": "/images/team/k2016/mot_vo.jpg",
+    "bio": "Chest X-Ray feature extraction and healthcare AI",
+    "alum": true
+  },
+  {
+    "id": "student-k2016-6-nguyncngminh",
+    "name": "Nguyễn Công Minh",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2016",
+    "image": "/images/team/k2016/minh_nguyen.jpg",
+    "bio": "Facial recognition and drone surveillance models",
+    "alum": true
+  },
+  {
+    "id": "student-k2016-7-trngngn",
+    "name": "Trương Ngân",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2016",
+    "image": "/images/team/k2016/ngan_truong.jpg",
+    "bio": "Super-resolution effects on object detection",
+    "alum": true
+  },
+  {
+    "id": "student-k2016-8-nguynthnh",
+    "name": "Nguyễn Thành",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2016",
+    "image": "/images/team/k2016/thanh_nguyen.jpg",
+    "bio": "Feature extraction for Vietnamese fruit classification",
+    "alum": true
+  },
+  {
+    "id": "student-k2016-9-nguynphng",
+    "name": "Nguyễn Phương",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2016",
+    "image": "/images/team/k2016/phuong_nguyen.jpg",
+    "bio": "Deep learning architectures for aerial imagery",
+    "alum": true
+  },
+  {
+    "id": "student-k2015-1-chungmnhqunh",
+    "name": "Chung Mạnh Quỳnh",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2015",
+    "image": "/images/team/k2015/quynh_m_chung.jpg",
+    "bio": "Data augmentation analysis in aerial videos",
+    "alum": true
+  },
+  {
+    "id": "student-k2015-2-lctin",
+    "name": "Lê Đức Tiến",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2015",
+    "image": "/images/team/k2015/tien_d_le.jpg",
+    "bio": "SSD for object detection in aerial videos",
+    "alum": true
+  },
+  {
+    "id": "student-k2015-3-hunhtnht",
+    "name": "Huỳnh T. Nhựt",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2015",
+    "image": "/images/team/k2015/huynh_t_nhut.jpg",
+    "bio": "Detecting objects from space using deep learning",
+    "alum": true
+  },
+  {
+    "id": "student-k2015-4-nguyncpht",
+    "name": "Nguyễn C. Phát",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2015",
+    "image": "/images/team/k2015/phat_c_nguyen.jpg",
+    "bio": "Evaluation of modern satellite and aerial detectors",
+    "alum": true
+  },
+  {
+    "id": "student-k2015-5-vtund",
+    "name": "Võ Tuấn Dĩ",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2015",
+    "image": "/images/team/k2015/di_vo.jpg",
+    "bio": "Deep learning object detection in aerial imagery",
+    "alum": true
+  },
+  {
+    "id": "student-k2015-6-hahngthnh",
+    "name": "Hứa Hưng Thịnh",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2015",
+    "image": "/images/team/k2015/thinh_hua.jpg",
+    "bio": "Person re-identification at point-level features",
+    "alum": true
+  },
+  {
+    "id": "student-k2015-7-nguyntrungho",
+    "name": "Nguyễn Trung Hào",
+    "role": "Undergraduate Student",
+    "position": "Research Assistant",
+    "cohort": "Cohort K2015",
+    "image": "/images/team/k2015/hao_nguyen.jpg",
+    "bio": "Real-time two-wheel vehicle detection",
+    "alum": true
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "tut-1",
+    "title": "Hướng dẫn cài đặt MMDetection",
+    "description": "Step-by-step installation and environment configuration guide for OpenMMLab MMDetection on Linux with CUDA support.",
+    "url": "https://hackmd.io/@UIT-Together/install_mmdetection",
+    "isExternal": true,
+    "category": "Framework & Tools",
+    "tags": [
+      "MMDetection",
+      "PyTorch",
+      "Linux"
+    ]
+  },
+  {
+    "id": "tut-2",
+    "title": "Hướng dẫn cài đặt Oriented RepPoints",
+    "description": "Setup and training guide for Oriented RepPoints for aerial object detection with arbitrary bounding box orientation.",
+    "url": "https://hackmd.io/@baophong2401/HyQS_YYcC",
+    "isExternal": true,
+    "category": "Object Detection",
+    "tags": [
+      "Aerial Detection",
+      "Oriented Bounding Boxes"
+    ]
+  },
+  {
+    "id": "tut-3",
+    "title": "Hướng dẫn cài đặt YOLOv7 / YOLOv8",
+    "description": "Practical guide on setting up, fine-tuning, and exporting real-time YOLO models for drone imagery inference.",
+    "url": "https://hackmd.io/@UIT-Together/install_yolo",
+    "isExternal": true,
+    "category": "Object Detection",
+    "tags": [
+      "YOLO",
+      "Real-Time",
+      "Edge AI"
+    ]
+  },
+  {
+    "id": "tut-4",
+    "title": "Hướng dẫn cài đặt RTMDet",
+    "description": "High-efficiency real-time object detector setup and benchmarking guide for rotated objects in aerial streams.",
+    "url": "https://hackmd.io/@UIT-Together/install_rtmdet",
+    "isExternal": true,
+    "category": "Object Detection",
+    "tags": [
+      "RTMDet",
+      "High-FPS",
+      "Benchmark"
+    ]
+  },
+  {
+    "id": "tut-5",
+    "title": "Hướng dẫn cài đặt DINO DETR",
+    "description": "Transformer-based object detection guide using DINO: DETR with Improved DeNoising Anchor Boxes.",
+    "url": "https://hackmd.io/@UIT-Together/install_dino",
+    "isExternal": true,
+    "category": "Vision Transformer",
+    "tags": [
+      "DINO",
+      "Transformer",
+      "DETR"
+    ]
+  },
+  {
+    "id": "tut-6",
+    "title": "Hướng dẫn cơ bản sử dụng Docker cho Deep Learning",
+    "description": "Managing GPU containers with NVIDIA Container Toolkit, mounting dataset volumes, and creating reproducible training environments.",
+    "url": "https://docs.docker.com",
+    "isExternal": true,
+    "category": "Lab Environment",
+    "tags": [
+      "Docker",
+      "NVIDIA CUDA",
+      "DevOps"
+    ]
+  },
+  {
+    "id": "tut-7",
+    "title": "Hướng dẫn submit kết quả lên MS COCO Benchmark Server",
+    "description": "Formatting detection JSON annotations and submitting test-dev predictions to the official C-Eval evaluation server.",
+    "url": "https://cocodataset.org/#upload",
+    "isExternal": true,
+    "category": "Benchmarks",
+    "tags": [
+      "COCO",
+      "Evaluation",
+      "Benchmarking"
+    ]
+  }
+]

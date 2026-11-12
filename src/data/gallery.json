@@ -1,0 +1,178 @@
+[
+  {
+    "id": "moment-team0",
+    "title": "Gặp mặt và làm việc tại Lab",
+    "event": "Lab Activities",
+    "year": 2021,
+    "image": "/images/team/team0.jpg",
+    "caption": "Các thành viên nhóm nghiên cứu UIT-Together gặp gỡ, thảo luận học thuật và triển khai dự án."
+  },
+  {
+    "id": "moment-team1",
+    "title": "Buổi trao đổi chuyên môn",
+    "event": "Lab Activities",
+    "year": 2021,
+    "image": "/images/team/team1.jpg",
+    "caption": "Thảo luận các giải pháp thị giác máy tính và học sâu trên ảnh chụp từ thiết bị bay không người lái."
+  },
+  {
+    "id": "moment-team2",
+    "title": "Khóa 2015 tốt nghiệp",
+    "event": "Graduation 2015",
+    "year": 2019,
+    "image": "/images/team/team2.jpg",
+    "caption": "Kỷ niệm ngày tốt nghiệp của các thế hệ sinh viên khóa K2015 đầu tiên gắn bó cùng nhóm."
+  },
+  {
+    "id": "moment-team5",
+    "title": "Báo cáo tiến độ nghiên cứu hàng tuần",
+    "event": "Lab Activities",
+    "year": 2020,
+    "image": "/images/team/team5.jpg",
+    "caption": "Sinh viên trình bày kết quả thử nghiệm mô hình và nhận phản hồi từ giảng viên hướng dẫn."
+  },
+  {
+    "id": "moment-team6",
+    "title": "Sinh hoạt học thuật nhóm",
+    "event": "Lab Activities",
+    "year": 2020,
+    "image": "/images/team/team6.jpg",
+    "caption": "Buổi seminar chia sẻ kinh nghiệm xử lý dữ liệu và huấn luyện mô hình Transformer."
+  },
+  {
+    "id": "moment-team14",
+    "title": "Nghiên cứu thị giác máy tính",
+    "event": "Lab Activities",
+    "year": 2020,
+    "image": "/images/team/team14.jpg",
+    "caption": "Hoạt động thực nghiệm và benchmark thuật toán trên hệ thống máy chủ GPU của phòng Lab."
+  },
+  {
+    "id": "moment-team16",
+    "title": "Báo cáo tại hội nghị REV-ECIT 2020",
+    "event": "Conference",
+    "year": 2020,
+    "image": "/images/team/team16.jpg",
+    "caption": "Sinh viên Phan Vĩnh Long đại diện nhóm báo cáo công trình nghiên cứu tại Hội nghị Quốc gia REV-ECIT."
+  },
+  {
+    "id": "moment-team17",
+    "title": "Nhóm sinh viên tham dự REV-ECIT 2020",
+    "event": "Conference",
+    "year": 2020,
+    "image": "/images/team/team17.jpg",
+    "caption": "Đoàn sinh viên UIT-Together chụp ảnh lưu niệm tại hội trường hội nghị REV-ECIT."
+  },
+  {
+    "id": "moment-team18",
+    "title": "Trao đổi chuyên môn và hướng dẫn đồ án",
+    "event": "Lab Activities",
+    "year": 2021,
+    "image": "/images/team/team18.jpg",
+    "caption": "Thầy Khang và Thầy Nguyên định hướng các đề tài nghiên cứu trọng điểm."
+  },
+  {
+    "id": "moment-team19",
+    "title": "Tập thể sinh viên chúc mừng ngày 20/11",
+    "event": "Celebration",
+    "year": 2021,
+    "image": "/images/team/team19.jpg",
+    "caption": "Sinh viên các khóa tề tựu chúc mừng các Thầy nhân ngày Nhà giáo Việt Nam 20/11."
+  },
+  {
+    "id": "moment-team20",
+    "title": "Kỷ niệm ngày 20/11 cùng sinh viên",
+    "event": "Celebration",
+    "year": 2021,
+    "image": "/images/team/team20.jpg",
+    "caption": "Tình cảm gắn kết thầy trò giữa các thế hệ thành viên nhóm nghiên cứu UIT-Together."
+  },
+  {
+    "id": "grad-2022-1",
+    "title": "Lễ Tốt Nghiệp 2022 - Khoảnh khắc nhận bằng",
+    "event": "Graduation 2022",
+    "year": 2022,
+    "image": "/images/team/LeTN2022/TN2022_1.jpg",
+    "caption": "Sinh viên nhóm UIT-Together đón nhận bằng tốt nghiệp danh giá sau những năm tháng nghiên cứu miệt mài."
+  },
+  {
+    "id": "grad-2022-2",
+    "title": "Chụp ảnh lưu niệm cùng Thầy Hướng Dẫn",
+    "event": "Graduation 2022",
+    "year": 2022,
+    "image": "/images/team/LeTN2022/TN2022_2.jpg",
+    "caption": "Khoảnh khắc tri ân các thầy cô hướng dẫn nhóm nghiên cứu UIT-Together trong ngày lễ tốt nghiệp."
+  },
+  {
+    "id": "grad-2022-3",
+    "title": "Niềm vui tân cử nhân và kỹ sư",
+    "event": "Graduation 2022",
+    "year": 2022,
+    "image": "/images/team/LeTN2022/TN2022_3.jpg",
+    "caption": "Nụ cười rạng rỡ của các thành viên nhóm sau khi hoàn thành xuất sắc chương trình đào tạo."
+  },
+  {
+    "id": "grad-2022-4",
+    "title": "Gia đình và đồng đội chúc mừng tốt nghiệp",
+    "event": "Graduation 2022",
+    "year": 2022,
+    "image": "/images/team/LeTN2022/TN2022_4.jpg",
+    "caption": "Sự đồng hành quý báu từ người thân và các đồng đội cùng phòng Lab trong ngày trọng đại."
+  },
+  {
+    "id": "grad-2022-5",
+    "title": "Đoàn kết và vươn xa",
+    "event": "Graduation 2022",
+    "year": 2022,
+    "image": "/images/team/LeTN2022/TN2022_5.jpg",
+    "caption": "Các thế hệ sinh viên tiếp nối tinh thần nghiên cứu khoa học nghiêm túc và sáng tạo."
+  },
+  {
+    "id": "grad-2022-6",
+    "title": "Kỷ niệm trước sảnh Tòa nhà UIT",
+    "event": "Graduation 2022",
+    "year": 2022,
+    "image": "/images/team/LeTN2022/TN2022_6.jpg",
+    "caption": "Bức ảnh kỷ niệm gắn liền với khuôn viên Đại học Công nghệ Thông tin ĐHQG-HCM."
+  },
+  {
+    "id": "grad-2022-7",
+    "title": "Tung mũ cử nhân chào đón chặng đường mới",
+    "event": "Graduation 2022",
+    "year": 2022,
+    "image": "/images/team/LeTN2022/TN2022_7.jpg",
+    "caption": "Nghi thức tung mũ cử nhân truyền thống đánh dấu cột mốc trưởng thành của các thành viên."
+  },
+  {
+    "id": "grad-2022-8",
+    "title": "Trao gửi lời cảm ơn và định hướng tương lai",
+    "event": "Graduation 2022",
+    "year": 2022,
+    "image": "/images/team/LeTN2022/TN2022_8.jpg",
+    "caption": "Các thành viên tốt nghiệp chia sẻ kế hoạch học lên cao học và làm việc tại các viện nghiên cứu."
+  },
+  {
+    "id": "grad-2022-9",
+    "title": "Nhóm nghiên cứu chụp ảnh tập thể Lễ Tốt Nghiệp 2022",
+    "event": "Graduation 2022",
+    "year": 2022,
+    "image": "/images/team/LeTN2022/TN2022_9.jpg",
+    "caption": "Đông đảo sinh viên và cựu sinh viên tề tựu trong ngày hội tốt nghiệp năm 2022."
+  },
+  {
+    "id": "grad-2022-10",
+    "title": "Gắn kết các thế hệ nghiên cứu viên",
+    "event": "Graduation 2022",
+    "year": 2022,
+    "image": "/images/team/LeTN2022/TN2022_10.jpg",
+    "caption": "Tình bạn và tinh thần làm việc nhóm là hành trang vô giá suốt những năm tháng tại Lab."
+  },
+  {
+    "id": "grad-2022-11",
+    "title": "Cột mốc tự hào của UIT-Together 2022",
+    "event": "Graduation 2022",
+    "year": 2022,
+    "image": "/images/team/LeTN2022/TN2022_11.jpg",
+    "caption": "Khép lại mùa tốt nghiệp 2022 với nhiều thành tích công bố quốc tế ấn tượng."
+  }
+]

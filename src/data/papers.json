@@ -1,0 +1,1430 @@
+[
+  {
+    "id": "paper-1",
+    "title": "Aerial Data Exploration: An In-Depth Study from Horizontal to Oriented Viewpoint",
+    "authors": "Nguyen D. Vo, HUONG-GIANG NGO, TOAN LE, QUANG NGUYEN, DANH-DU DOAN, BINH NGUYEN, DO LE-HUU, NGUYEN LE-DUY, HUY TRAN, KHANH DUY NGUYEN, KHANG NGUYEN",
+    "venue": "IEEE Access (SCIE, Q1, IF: 3.4)",
+    "year": 2024,
+    "type": "journal",
+    "quartile": "SCIE, Q1, IF: 3.4",
+    "url": "https://ieeexplore.ieee.org/abstract/document/10453557",
+    "tags": [
+      "Aerial Images",
+      "Oriented Object Detection",
+      "Computer Vision"
+    ]
+  },
+  {
+    "id": "paper-2",
+    "title": "Improving human–object interaction with auxiliary semantic information and enhanced instance representation",
+    "authors": "Khang Nguyen, TV Le, HNN Van, DC Bui",
+    "venue": "Pattern Recognition Letters 175, 38-43 (2023)",
+    "year": 2023,
+    "type": "journal",
+    "quartile": "SCIE, Q1, IF: 5.1",
+    "url": "https://www.sciencedirect.com/science/article/abs/pii/S0167865523002611",
+    "tags": [
+      "Human-Object Interaction",
+      "Semantic Representation",
+      "Deep Learning"
+    ],
+    "thumbnail": "/images/papers/prlt.jpg",
+    "doi": "10.1016/j.patrec.2023.09.013"
+  },
+  {
+    "id": "paper-3",
+    "title": "UIT-ADrone: A Novel Drone Dataset for Traffic Anomaly Detection",
+    "authors": "Tung Minh Tran, Tu N Vu, Tam V Nguyen, Khang Nguyen",
+    "venue": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+    "year": 2023,
+    "type": "journal",
+    "quartile": "SCIE, Q1, IF: 5.5",
+    "url": "https://ieeexplore.ieee.org",
+    "tags": [
+      "Drone Dataset",
+      "Traffic Anomaly",
+      "Deep Learning"
+    ],
+    "doi": "10.1109/JSTARS.2023.3285905"
+  },
+  {
+    "id": "paper-4",
+    "title": "A brief review of state-of-the-art object detectors on benchmark document images datasets",
+    "authors": "Trong Thuan Nguyen, Hai Le, Truong Nguyen, Nguyen D. Vo, Khang Nguyen",
+    "venue": "International Journal on Document Analysis and Recognition (IJDAR) (2023)",
+    "year": 2023,
+    "type": "journal",
+    "quartile": "Peer-reviewed Journal",
+    "url": "https://doi.org/10.1007/s10032-023-00431-0",
+    "tags": [
+      "Computer Vision",
+      "Deep Learning"
+    ],
+    "thumbnail": "/images/papers/ijdar.jpg",
+    "doi": "10.1007/s10032-023-00431-0"
+  },
+  {
+    "id": "paper-13",
+    "title": "DATA AUGMENTATION ANALYSIS OF VEHICLE DETECTION IN AERIAL IMAGES",
+    "authors": "Khang Nguyen",
+    "venue": "Journal of Computer Science and Cybernetics, Sep. 2023.",
+    "year": 2023,
+    "type": "journal",
+    "quartile": "",
+    "url": "https://doi.org/10.15625/1813-9663/18259",
+    "tags": [
+      "Computer Vision",
+      "Aerial Vision"
+    ],
+    "doi": "10.15625/1813-9663/18259"
+  },
+  {
+    "id": "paper-14",
+    "title": "Evaluating the influence of backbone network architectures for object detection in aerial images",
+    "authors": "Khang Nguyen",
+    "venue": "Vietnam Journal of Science and Technology, 2023.",
+    "year": 2023,
+    "type": "journal",
+    "quartile": "",
+    "url": "https://doi.org/10.15625/2525-2518/17595",
+    "tags": [
+      "Computer Vision",
+      "Aerial Vision"
+    ],
+    "doi": "10.15625/2525-2518/17595"
+  },
+  {
+    "id": "paper-32",
+    "title": "Phát Hiện Tàu Thuyền Trong Không Ảnh Bằng Phương Pháp RTMDET-ROTATED",
+    "authors": "Võ Duy Nguyên, Trần Nguyễn Chí Huy and Đinh Nguyễn Anh Dũng",
+    "venue": "Hội nghị Quốc gia về Điện tử, Truyền thông và Công nghệ Thông tin lần thứ XXVI, REV-ECIT 2023",
+    "year": 2023,
+    "type": "conference",
+    "quartile": "",
+    "url": "",
+    "tags": [
+      "Computer Vision",
+      "Aerial Vision"
+    ]
+  },
+  {
+    "id": "paper-33",
+    "title": "Phát Hiện Đối Tượng Trong Không Ảnh Sử Dụng Phương Pháp DINO",
+    "authors": "Võ Duy Nguyên, Lê Hữu Độ, Ngô Hương Giang, Nguyễn Thành Hiệp and Trần Thị Hồng Yến",
+    "venue": "Hội nghị Quốc gia về Điện tử, Truyền thông và Công nghệ Thông tin lần thứ XXVI, REV-ECIT 2023.",
+    "year": 2023,
+    "type": "conference",
+    "quartile": "",
+    "url": "",
+    "tags": [
+      "Computer Vision",
+      "Aerial Vision"
+    ]
+  },
+  {
+    "id": "paper-34",
+    "title": "Transformer-based End-to-End Object Detection in Aerial Images",
+    "authors": "Nguyen D. Vo, Nguyen Le, Giang Ngo, Du Doan, Do Le, Khang Nguyen",
+    "venue": "International Journal of Advanced Computer Science and Applications (IJACSA) - Volume 14 No 10 October 2023.",
+    "year": 2023,
+    "type": "journal",
+    "quartile": "",
+    "url": "https://doi.org/10.14569/IJACSA.2023.01410113",
+    "tags": [
+      "Computer Vision",
+      "Aerial Vision"
+    ],
+    "doi": "10.14569/IJACSA.2023.01410113"
+  },
+  {
+    "id": "paper-35",
+    "title": "Vo, Thu M",
+    "authors": "Nguyen D",
+    "venue": "Nguyen, Triet H. M. Nguyen, Khang Nguyen, Optimizing Results in Aerial Images through Post-Processing Techniques on YOLOv7, International Symposium on Information and Communication Technology (SOICT), 2023.",
+    "year": 2023,
+    "type": "conference",
+    "quartile": "",
+    "url": "",
+    "tags": [
+      "Computer Vision"
+    ]
+  },
+  {
+    "id": "paper-36",
+    "title": "CASQ: Enhancing Human-Object Interaction Detection via Supplementary Semantic Information for Interaction Queries",
+    "authors": "Thinh V. Le, Huyen Ngoc N. Van, Nguyen D. Vo, Khang Nguyen",
+    "venue": "International Conference on Multimedia Analysis and Pattern Recognition (MAPR), 2023.",
+    "year": 2023,
+    "type": "conference",
+    "quartile": "",
+    "url": "",
+    "tags": [
+      "Computer Vision"
+    ]
+  },
+  {
+    "id": "paper-37",
+    "title": "FoveaBox with Consistent Label Assignment Distillation for Page Object Detection",
+    "authors": "Truong Nguyen, Hai Le, Nguyen D. Vo",
+    "venue": "International Conference on Multimedia Analysis and Pattern Recognition (MAPR), 2023.",
+    "year": 2023,
+    "type": "conference",
+    "quartile": "",
+    "url": "",
+    "tags": [
+      "Computer Vision",
+      "Document AI"
+    ]
+  },
+  {
+    "id": "paper-39",
+    "title": "Comparison of machine learning methods for image classification of companies in Vietnam",
+    "authors": "Toan Nguyen, Khiem Tran, Ninh Nguyen, Loan Le, Tinh Phan and Nguyen D. Vo",
+    "venue": "2023 8th International Conference on Signal and Image Processing (ICSIP 2023).",
+    "year": 2023,
+    "type": "conference",
+    "quartile": "",
+    "url": "",
+    "tags": [
+      "Computer Vision"
+    ]
+  },
+  {
+    "id": "paper-5",
+    "title": "Disease Recognition in X-ray Images with Doctor Consultation-Inspired Model",
+    "authors": "Phung, K.A.; Nguyen, T.T.; Wangad, N.; Baraheem, S.; Nguyen D. Vo; Khang Nguyen",
+    "venue": "J. Imaging 2022, 8, 323.",
+    "year": 2022,
+    "type": "journal",
+    "quartile": "Peer-reviewed Journal",
+    "url": "https://doi.org/10.3390/jimaging8120323",
+    "tags": [
+      "Computer Vision",
+      "Deep Learning"
+    ],
+    "thumbnail": "/images/papers/mdpi.jpg",
+    "doi": "10.3390/jimaging8120323"
+  },
+  {
+    "id": "paper-6",
+    "title": "Vietnamese Document Analysis: Dataset, Method and Benchmark Suite",
+    "authors": "Khang Nguyen, An Nguyen, Nguyen D. Vo, Tam V. Nguyen",
+    "venue": "IEEE Access 2022",
+    "year": 2022,
+    "type": "journal",
+    "quartile": "SCIE, Q1",
+    "url": "https://doi.org/10.1109/ACCESS.2022.3211069",
+    "tags": [
+      "Computer Vision",
+      "Deep Learning"
+    ],
+    "thumbnail": "/images/papers/vdn.jpg",
+    "doi": "10.1109/ACCESS.2022.3211069"
+  },
+  {
+    "id": "paper-7",
+    "title": "A Benchmark of Parsing Vietnamese Publications",
+    "authors": "Khang Nguyen, Thuan Trong Nguyen, Thuan Q Nguyen, An Nguyen, Nguyen D Vo, Tam V Nguyen",
+    "venue": "IEEE Access 10, 65284-65299, 2022",
+    "year": 2022,
+    "type": "journal",
+    "quartile": "SCIE, Q1",
+    "url": "https://ieeexplore.ieee.org/abstract/document/9796543",
+    "tags": [
+      "Computer Vision",
+      "Deep Learning"
+    ],
+    "thumbnail": "/images/papers/A Benchmark of Parsing Vietnamese Publications.png",
+    "doi": "10.1109/ACCESS.2022.3183193"
+  },
+  {
+    "id": "paper-8",
+    "title": "EAES: Effective Augmented Embedding Spaces for Text-Based Image Captioning.",
+    "authors": "Khang Nguyen, Doanh C Bui, Truc Trinh, Nguyen D. Vo",
+    "venue": "IEEE Access 10, 32443-32452, 2022",
+    "year": 2022,
+    "type": "journal",
+    "quartile": "SCIE, Q1",
+    "url": "https://ieeexplore.ieee.org/abstract/document/9732974",
+    "tags": [
+      "Computer Vision",
+      "Deep Learning"
+    ],
+    "thumbnail": "/images/papers/EAES.png",
+    "doi": "10.1109/ACCESS.2022.3158763"
+  },
+  {
+    "id": "paper-9",
+    "title": "Anomaly Analysis in Images and Videos: A Comprehensive Review",
+    "authors": "Tung Minh Tran, Tu N Vu, Nguyen D. Vo, Tam V Nguyen, Khang Nguyen",
+    "venue": "ACM Computing Surveys (CSUR) 2022, IF (2021): 14.324",
+    "year": 2022,
+    "type": "journal",
+    "quartile": "Peer-reviewed Journal",
+    "url": "https://dl.acm.org/doi/abs/10.1145/3544014",
+    "tags": [
+      "Computer Vision",
+      "Deep Learning"
+    ],
+    "thumbnail": "/images/papers/csur.png",
+    "doi": "10.1145/3544014"
+  },
+  {
+    "id": "paper-10",
+    "title": "Analysis of the Influence of De-hazing Methods on Vehicle Detection in Aerial Images",
+    "authors": "Khang Nguyen, Phuc Nguyen, DC Bui, MT Tran, Nguyen D. Vo",
+    "venue": "International Journal of Advanced Computer Science and Applications (IJACSA), 2022, ESCI, Q3",
+    "year": 2022,
+    "type": "journal",
+    "quartile": "Peer-reviewed Journal",
+    "url": "https://dx.doi.org/10.14569/IJACSA.2022.01306100",
+    "tags": [
+      "Computer Vision",
+      "Deep Learning"
+    ],
+    "thumbnail": "/images/papers/drone_analysis.jpg",
+    "doi": "10.14569/IJACSA.2022.01306100"
+  },
+  {
+    "id": "paper-11",
+    "title": "Rethinking Classification of Oriented Object Detection in Aerial Images",
+    "authors": "Phuc Nguyen,Thang Truong, Nguyen D. Vo, Khang Nguyen",
+    "venue": "International Journal of Advanced Computer Science and Applications (IJACSA), 2022, ESCI, Q3",
+    "year": 2022,
+    "type": "journal",
+    "quartile": "Peer-reviewed Journal",
+    "url": "https://dx.doi.org/10.14569/IJACSA.2022.0130987",
+    "tags": [
+      "Computer Vision",
+      "Deep Learning"
+    ],
+    "thumbnail": "/images/papers/rethinking.jpg",
+    "doi": "10.14569/IJACSA.2022.0130987"
+  },
+  {
+    "id": "paper-15",
+    "title": "Empirical Study Of Feature Extraction Approaches For Image Captioning In Vietnamese",
+    "authors": "Khang Nguyen",
+    "venue": "Journal of Computer Science and Cybernetics, 2022.",
+    "year": 2022,
+    "type": "journal",
+    "quartile": "",
+    "url": "https://doi.org/10.15625/1813-9663/38/4/17548",
+    "tags": [
+      "Computer Vision"
+    ],
+    "doi": "10.15625/1813-9663/38/4/17548"
+  },
+  {
+    "id": "paper-16",
+    "title": "Bui, Nguyen D",
+    "authors": "Bao Tran Nguyen, Tai Pham Tan, Doanh C",
+    "venue": "Vo, Khang Nguyen, The Object Detection By The Combination Of Generic Roi Extractor And Dynamic R-CNN With Side-Aware Boundary Localization In Aerial Images, Can Tho University Journal of Science, Accepted.",
+    "year": 2022,
+    "type": "journal",
+    "quartile": "",
+    "url": "",
+    "tags": [
+      "Computer Vision"
+    ]
+  },
+  {
+    "id": "paper-17",
+    "title": "Phát Hiện Bất Thường: Dự Đoán Khung Hình Tương Lai Kết Hợp SOTA Optical-Flow Model Và Cải Tiến Hàm Lỗi Dự Trên Fencegan",
+    "authors": "Võ Trung Hiếu, Võ Duy Nguyên, Nguyễn Tấn Trần Minh Khang",
+    "venue": "Tạp chí Khoa học Trường Đại học Cần Thơ, Accepted.",
+    "year": 2022,
+    "type": "journal",
+    "quartile": "",
+    "url": "https://doi.org/10.22144/ctu.jvn.2022.230",
+    "tags": [
+      "Computer Vision",
+      "Traffic Anomaly"
+    ],
+    "doi": "10.22144/ctu.jvn.2022.230"
+  },
+  {
+    "id": "paper-18",
+    "title": "Thực nghiệm đánh giá Double-Head cho bài toán phát hiện phương tiện giao thông từ không ảnh",
+    "authors": "NTT Trúc, TTM Quyên, BC Doanh, VD Nguyễn, NTTM Khang",
+    "venue": "Tạp chí Khoa học Trường Đại học Cần Thơ 58 (4), 17-25, 2022",
+    "year": 2022,
+    "type": "journal",
+    "quartile": "",
+    "url": "https://doi.org/10.22144/ctu.jvn.2022.159",
+    "tags": [
+      "Computer Vision",
+      "Aerial Vision",
+      "Traffic Anomaly"
+    ],
+    "doi": "10.22144/ctu.jvn.2022.159"
+  },
+  {
+    "id": "paper-19",
+    "title": "Thực nghiệm đánh giá YOLOX cho bài toán phát hiện đối tượng tài liệu",
+    "authors": "HVT Kiệt, NV Toàn, NT Thuận, Võ Duy Nguyên, NTTM Khang",
+    "venue": "Tạp chí Khoa học Trường Đại học Cần Thơ 58 (3), 52-60, 2022",
+    "year": 2022,
+    "type": "journal",
+    "quartile": "",
+    "url": "https://doi.org/10.22144/ctu.jvn.2022.087",
+    "tags": [
+      "Computer Vision",
+      "Document AI"
+    ],
+    "doi": "10.22144/ctu.jvn.2022.087"
+  },
+  {
+    "id": "paper-20",
+    "title": "DLAFS Cascade R-CNN: An Object Detector Based On Dynamic Label Assignment",
+    "authors": "Doanh C. Bui, Nguyen D. Vo, Khang Nguyen",
+    "venue": "Journal of Computer Science and Cybernetics (JCC) vol. 38, no. 2, p. 131–145, Jun. 2022",
+    "year": 2022,
+    "type": "journal",
+    "quartile": "",
+    "url": "https://doi.org/10.15625/1813-9663/38/2/16252",
+    "tags": [
+      "Computer Vision"
+    ],
+    "doi": "10.15625/1813-9663/38/2/16252"
+  },
+  {
+    "id": "paper-21",
+    "title": "A Vietnamese Benchmark for Vehicle Detection and Realtime Empirical Evaluation",
+    "authors": "Truc Trinh, Khang Nguyen",
+    "venue": "Can Tho University Journal of Science, 2022 (accepted)",
+    "year": 2022,
+    "type": "journal",
+    "quartile": "",
+    "url": "https://doi.org/10.22144/ctu.jen.2022.042",
+    "tags": [
+      "Computer Vision"
+    ],
+    "doi": "10.22144/ctu.jen.2022.042"
+  },
+  {
+    "id": "paper-22",
+    "title": "An object detection method for aerial hazy images",
+    "authors": "MT Tran, BV Tran, Nguyen D. Vo, K Nguyen",
+    "venue": "Can Tho University Journal of Science 14 (1), 91-98, 2022",
+    "year": 2022,
+    "type": "journal",
+    "quartile": "",
+    "url": "https://doi.org/10.22144/ctu.jen.2022.010",
+    "tags": [
+      "Computer Vision",
+      "Aerial Vision"
+    ],
+    "doi": "10.22144/ctu.jen.2022.010"
+  },
+  {
+    "id": "paper-28",
+    "title": "EAES: Effective Augmented Embedding Spaces for Text-Based Image Captioning",
+    "authors": "Khang Nguyen, Doanh C Bui, Truc Trinh, Nguyen D. Vo",
+    "venue": "IEEE Access 10, 32443-32452, 2022 (SCIE, Q1, IF: 3.367) .",
+    "year": 2022,
+    "type": "journal",
+    "quartile": "SCIE, Q1, IF: 3.367",
+    "url": "https://doi.org/10.1109/ACCESS.2022.3158763",
+    "tags": [
+      "Computer Vision"
+    ],
+    "thumbnail": "/images/papers/EAES.png",
+    "doi": "10.1109/ACCESS.2022.3158763"
+  },
+  {
+    "id": "paper-38",
+    "title": "Nghiên cứu cơ bản và ứng dụng Công nghệ thông tin",
+    "authors": "Nguyễn Hữu Lợi và Nguyễn Tấn Trần Minh Khang, Phát Hiện Phương Tiện Giao Thông Trong Không Ảnh Bằng Mô Hình Yolo V5 Nhỏ Gọn , Hội nghị khoa học quốc gia lần thứ XVI về",
+    "venue": "Conference Proceeding",
+    "year": 2022,
+    "type": "conference",
+    "quartile": "",
+    "url": "",
+    "tags": [
+      "Computer Vision"
+    ]
+  },
+  {
+    "id": "paper-40",
+    "title": "Analysis of Fog density on oriented object detection in aerial images",
+    "authors": "Nguyen D. Vo, Phuc Nguyen, Thang Truong, Luu Ngo, Kiet Huynh, Dung Dinh, Khang Nguyen",
+    "venue": "2022 RIVF International Conference on Computing and Communication Technologies (RIVF 2022) Code",
+    "year": 2022,
+    "type": "conference",
+    "quartile": "",
+    "url": "",
+    "tags": [
+      "Computer Vision",
+      "Aerial Vision"
+    ]
+  },
+  {
+    "id": "paper-41",
+    "title": "Empirical Study of Real-time One-Stage Object Detection Methods on Recyclable Waste Dataset",
+    "authors": "Nguyen D. Vo, Bao N. Tran, Huyen Ngoc N. Van, Khanh B. T. Duong, Thinh V. Le, Nghia Nguyen",
+    "venue": "2022 RIVF International Conference on Computing and Communication Technologies (RIVF 2022) Code",
+    "year": 2022,
+    "type": "conference",
+    "quartile": "",
+    "url": "https://github.com/UIT-Together-Research-Group/uit-zerowaste-onestage-detection",
+    "tags": [
+      "Computer Vision"
+    ]
+  },
+  {
+    "id": "paper-42",
+    "title": "Foggy-DOTA: An Adverse Weather Dataset for Object Detection in Aerial Images",
+    "authors": "Nguyen D. Vo, Phuc Nguyen, Thang Truong, Nguyễn Công Hoan, Khang Nguyen",
+    "venue": "NAFOSTED Conference on Information and Computer Science (NICS 2022)",
+    "year": 2022,
+    "type": "conference",
+    "quartile": "",
+    "url": "https://doi.org/10.1109/NICS56915.2022.10013441",
+    "tags": [
+      "Computer Vision",
+      "Aerial Vision"
+    ],
+    "doi": "10.1109/NICS56915.2022.10013441"
+  },
+  {
+    "id": "paper-43",
+    "title": "Empirical Study One-Stage Object Detection Methods for RoboCup Small Size League",
+    "authors": "Khang Nguyen, Luu T. V. Ngo, Kiet T. V. Huynh, Nguyễn Thành Nam",
+    "venue": "NAFOSTED Conference on Information and Computer Science (NICS 2022)",
+    "year": 2022,
+    "type": "conference",
+    "quartile": "",
+    "url": "https://doi.org/10.1109/NICS56915.2022.10013320",
+    "tags": [
+      "Computer Vision"
+    ],
+    "doi": "10.1109/NICS56915.2022.10013320"
+  },
+  {
+    "id": "paper-44",
+    "title": "A Multi-Scale Approach for Vietnamese Image Captioning in Healthcare Domain",
+    "authors": "Bao Do, Doanh C. Bui, Nguyen D. Vo, Khang Nguyen",
+    "venue": "NAFOSTED Conference on Information and Computer Science (NICS 2022)",
+    "year": 2022,
+    "type": "conference",
+    "quartile": "",
+    "url": "",
+    "tags": [
+      "Computer Vision"
+    ]
+  },
+  {
+    "id": "paper-45",
+    "title": "Page Object Detection in Vietnamese Document Images with Novel Approach",
+    "authors": "Le Thanh Luc, Nguyen Trong Thuan, Khang Nguyen",
+    "venue": "NAFOSTED Conference on Information and Computer Science (NICS 2022)",
+    "year": 2022,
+    "type": "conference",
+    "quartile": "",
+    "url": "",
+    "tags": [
+      "Computer Vision",
+      "Document AI"
+    ]
+  },
+  {
+    "id": "paper-46",
+    "title": "” Vi-DRSNet: A Novel Hybrid Model for Vietnamese Image Captioning in Healthcare Domain”",
+    "authors": "DB Cao, HN Nguyen, Nguyen D. Vo, UTT Han, Khang Nguyen",
+    "venue": "2022 International Conference on Multimedia Analysis and Pattern Recognition (MAPR)",
+    "year": 2022,
+    "type": "conference",
+    "quartile": "",
+    "url": "https://doi.org/10.1109/MAPR56351.2022.9924781",
+    "tags": [
+      "Computer Vision"
+    ],
+    "doi": "10.1109/MAPR56351.2022.9924781"
+  },
+  {
+    "id": "paper-47",
+    "title": "” Performance Evaluation of Optimizers for Deformable-DETR in Natural Disaster Damage Assessment”",
+    "authors": "Minh Dinh, VL Bui, DC Bui, LP Duong, Nguyen D. Vo, Khang Nguyen",
+    "venue": "2022 International Conference on Multimedia Analysis and Pattern Recognition (MAPR)",
+    "year": 2022,
+    "type": "conference",
+    "quartile": "",
+    "url": "",
+    "tags": [
+      "Computer Vision"
+    ]
+  },
+  {
+    "id": "paper-48",
+    "title": "2022 International Conference on Multimedia Analysis and Pattern Recognition (MAPR)",
+    "authors": "Dung Truong, Thuan Trong Nguyen, Nguyen D. Vo, Khang Nguyen, ” GaDocNet: Rethinking the Anchoring Scheme and Loss Function in Vietnamese Document Images”",
+    "venue": "Conference Proceeding",
+    "year": 2022,
+    "type": "conference",
+    "quartile": "",
+    "url": "",
+    "tags": [
+      "Computer Vision"
+    ]
+  },
+  {
+    "id": "paper-49",
+    "title": "Empirical Study of RepPoints Representation for Object Detection in Aerial Images",
+    "authors": "TV Le; HNN Van, DC Bui; PL Vo, Nguyen D. Vo, Khang Nguyen",
+    "venue": "2022 IEEE Ninth International Conference on Communications and Electronics (ICCE)",
+    "year": 2022,
+    "type": "conference",
+    "quartile": "",
+    "url": "https://doi.org/10.1109/ICCE55644.2022.9852099",
+    "tags": [
+      "Computer Vision",
+      "Aerial Vision"
+    ],
+    "doi": "10.1109/ICCE55644.2022.9852099"
+  },
+  {
+    "id": "paper-50",
+    "title": "CDeRSNet: Towards High Performance Object Detection in Vietnamese Document Images",
+    "authors": "TT Nguyen, TQ Nguyen, L Duong, Nguyen D. Vo, Khang Nguyen",
+    "venue": "28th International Conference on MultiMedia Modeling, 2022",
+    "year": 2022,
+    "type": "conference",
+    "quartile": "",
+    "url": "https://doi.org/10.1007/978-3-030-98355-0_36",
+    "tags": [
+      "Computer Vision",
+      "Document AI"
+    ],
+    "doi": "10.1007/978-3-030-98355-0_36"
+  },
+  {
+    "id": "paper-76",
+    "title": "Detecting human from space: an evaluation of deep learning modern approaches.",
+    "authors": "Huynh T. Nhut, Phat C. Nguyen,Nguyen D. Vo , Khang Nguyen",
+    "venue": "15 International Conference on Multimedia Information Technology and Applications(MITA2019), HoChiMinh, VietNam.",
+    "year": 2022,
+    "type": "conference",
+    "quartile": "",
+    "url": "",
+    "tags": [
+      "Computer Vision"
+    ]
+  },
+  {
+    "id": "paper-23",
+    "title": "Extract Features And Classification Of Chest X-Ray Images.",
+    "authors": "Mot Thi Vo, Nguyen D. Vo, Khang Nguyen",
+    "venue": "TNU Journal of Science and Technology, 2021.",
+    "year": 2021,
+    "type": "journal",
+    "quartile": "",
+    "url": "https://doi.org/10.34238/tnu-jst.3974",
+    "tags": [
+      "Computer Vision"
+    ],
+    "doi": "10.34238/tnu-jst.3974"
+  },
+  {
+    "id": "paper-24",
+    "title": "Phân loại phương tiện giao thông trong không ảnh.",
+    "authors": "Trịnh Thị Thanh Trúc, Võ Duy Nguyên, Nguyễn Tấn Trần Minh Khang",
+    "venue": "JSTIC Journal of Science and Technology on Information and Communications, 2021.",
+    "year": 2021,
+    "type": "journal",
+    "quartile": "",
+    "url": "",
+    "tags": [
+      "Computer Vision",
+      "Aerial Vision",
+      "Traffic Anomaly"
+    ]
+  },
+  {
+    "id": "paper-25",
+    "title": "An Empirical Evaluation of Feature Extraction of Vietnamese Fruit Classification.",
+    "authors": "Thuan Trong Nguyen, et al",
+    "venue": "VJST Vietnam Journal of Science and Technology, 2021.",
+    "year": 2021,
+    "type": "journal",
+    "quartile": "",
+    "url": "https://doi.org/10.15625/2525-2518/16299",
+    "tags": [
+      "Computer Vision"
+    ],
+    "doi": "10.15625/2525-2518/16299"
+  },
+  {
+    "id": "paper-51",
+    "title": "Page Object Detection with YOLOF",
+    "authors": "Phuc Nguyen, Luu Ngo, Thang Truong, Thuan Trong Nguyen, Nguyen D. Vo and Khang Nguyen",
+    "venue": "NAFOSTED Conference on Information and Computer Science (NICS), 2021.",
+    "year": 2021,
+    "type": "conference",
+    "quartile": "",
+    "url": "https://doi.org/10.1109/NICS54270.2021.9701449",
+    "tags": [
+      "Computer Vision",
+      "Document AI"
+    ],
+    "doi": "10.1109/NICS54270.2021.9701449"
+  },
+  {
+    "id": "paper-52",
+    "title": "VNAnomaly: A Novel Vietnam Surveillance Video Dataset for Anomaly Detection",
+    "authors": "Tu Ngoc Vu, Toan Dinh, Nguyen D. Vo, Tung Tran and Khang Nguyen",
+    "venue": "NAFOSTED Conference on Information and Computer Science (NICS), 2021.",
+    "year": 2021,
+    "type": "conference",
+    "quartile": "",
+    "url": "",
+    "tags": [
+      "Computer Vision",
+      "Traffic Anomaly"
+    ]
+  },
+  {
+    "id": "paper-53",
+    "title": "UIT-DroneFog: Toward High-Performance Object Detection via High-Quality Aerial Foggy Dataset",
+    "authors": "Minh T. Tran, Bao V. Tran, Nguyen D. Vo and Khang Nguyen",
+    "venue": "NAFOSTED Conference on Information and Computer Science (NICS), 2021.",
+    "year": 2021,
+    "type": "conference",
+    "quartile": "",
+    "url": "",
+    "tags": [
+      "Computer Vision",
+      "Aerial Vision"
+    ],
+    "thumbnail": "/images/papers/DroneFog.png"
+  },
+  {
+    "id": "paper-54",
+    "title": "Guided Anchoring Cascade R-CNN: An Intensive Improvement of R-CNN in Vietnamese Document Detection",
+    "authors": "Hai Le, Truong Nguyen, Vy Le, Thuan Trong Nguyen, Nguyen D. Vo and Khang Nguyen",
+    "venue": "NAFOSTED Conference on Information and Computer Science (NICS), 2021.",
+    "year": 2021,
+    "type": "conference",
+    "quartile": "",
+    "url": "https://doi.org/10.1109/NICS54270.2021.9701510",
+    "tags": [
+      "Computer Vision",
+      "Document AI"
+    ],
+    "doi": "10.1109/NICS54270.2021.9701510"
+  },
+  {
+    "id": "paper-55",
+    "title": "An Augmented Embedding Spaces Approach for Text-Based Image Captioning",
+    "authors": "Doanh C. Bui, Truc Trinh, Nguyen D. Vo and Khang Nguyen",
+    "venue": "NAFOSTED Conference on Information and Computer Science (NICS), 2021.",
+    "year": 2021,
+    "type": "conference",
+    "quartile": "",
+    "url": "",
+    "tags": [
+      "Computer Vision"
+    ]
+  },
+  {
+    "id": "paper-56",
+    "title": "UIT-Anomaly: A Modern Vietnamese Video Dataset for Anomaly Detection",
+    "authors": "Dung T.T. Vo, Tung Tran, Nguyen D. Vo and Khang Nguyen",
+    "venue": "NAFOSTED Conference on Information and Computer Science (NICS), 2021.",
+    "year": 2021,
+    "type": "conference",
+    "quartile": "",
+    "url": "https://doi.org/10.1109/NICS54270.2021.9701556",
+    "tags": [
+      "Computer Vision",
+      "Traffic Anomaly"
+    ],
+    "doi": "10.1109/NICS54270.2021.9701556"
+  },
+  {
+    "id": "paper-57",
+    "title": "Phát hiện phương tiện giao thông trong không ảnh với nhiều tình huống khác nhau",
+    "authors": "Phan Thị Hồng Cúc, Nguyễn Thành Hiệp, Võ Duy Nguyên, Nguyễn Tấn Trần Minh Khang",
+    "venue": "Hội thảo Quốc gia lần thứ XXIV về Điện tử, Truyền thông và Công nghệ Thông tin, (2021)",
+    "year": 2021,
+    "type": "journal",
+    "quartile": "",
+    "url": "",
+    "tags": [
+      "Computer Vision",
+      "Aerial Vision",
+      "Traffic Anomaly"
+    ]
+  },
+  {
+    "id": "paper-58",
+    "title": "Một hàm lỗi cho phát hiện bất thường trên video giám sát",
+    "authors": "Tú Vũ, Toàn Đinh, Trần Minh Tùng, Võ Duy Nguyên, Nguyễn Tấn Trần Minh Khang",
+    "venue": "Hội thảo Quốc gia lần thứ XXIV về Điện tử, Truyền thông và Công nghệ Thông tin, (2021)",
+    "year": 2021,
+    "type": "journal",
+    "quartile": "",
+    "url": "",
+    "tags": [
+      "Computer Vision",
+      "Traffic Anomaly"
+    ]
+  },
+  {
+    "id": "paper-59",
+    "title": "Phát hiện phương tiện giao thông ở môi trường đô thị việt nam trong ảnh chụp từ drone",
+    "authors": "Ngô Minh Phú, Lê Minh Phước, Nguyễn Trần Phúc An, Võ Duy Nguyên, Nguyễn Tấn Trần Minh Khang",
+    "venue": "Hội thảo Quốc gia lần thứ XXIV về Điện tử, Truyền thông và Công nghệ Thông tin, (2021)",
+    "year": 2021,
+    "type": "journal",
+    "quartile": "",
+    "url": "",
+    "tags": [
+      "Computer Vision",
+      "Aerial Vision",
+      "Traffic Anomaly"
+    ]
+  },
+  {
+    "id": "paper-60",
+    "title": "Thử nghiệm hệ thống nhận diện khuôn mặt trên video được stream từ Drone",
+    "authors": "Lương Văn Song, Võ Duy Nguyên, Nguyễn Tấn Trần Minh Khang",
+    "venue": "Hội nghị Khoa học công nghệ Quốc gia lần thứ XIV về Nghiên cứu Cơ bản và Ứng dụng Công nghệ thông tin, (2021)",
+    "year": 2021,
+    "type": "conference",
+    "quartile": "",
+    "url": "",
+    "tags": [
+      "Computer Vision",
+      "Aerial Vision"
+    ]
+  },
+  {
+    "id": "paper-61",
+    "title": "Khai phá hàm chi phí cho phát hiện phương tiện giao thông trong không ảnh",
+    "authors": "Nguyễn Hoàn Mỹ, Bùi Cao Doanh, Võ Duy Nguyên, Nguyễn Tấn Trần Minh Khang",
+    "venue": "Hội nghị Khoa học công nghệ Quốc gia lần thứ XIV về Nghiên cứu Cơ bản và Ứng dụng Công nghệ thông tin, (2021)",
+    "year": 2021,
+    "type": "conference",
+    "quartile": "",
+    "url": "",
+    "tags": [
+      "Computer Vision",
+      "Aerial Vision",
+      "Traffic Anomaly"
+    ]
+  },
+  {
+    "id": "paper-62",
+    "title": "Parsing Digitized Vietnamese Paper Documents.",
+    "authors": "Truong, Linh D., et al",
+    "venue": "International Conference on Computer Analysis of Images and Patterns. Springer, Cham, 2021. PDF",
+    "year": 2021,
+    "type": "conference",
+    "quartile": "",
+    "url": "https://link.springer.com/chapter/10.1007/978-3-030-89128-2_37?fbclid=IwAR2KRhLDSbQsLgI2K1-HLgBsqWRZDyHpa855B8bjeyWSxe8RB-Kgei6kt2w",
+    "tags": [
+      "Computer Vision",
+      "Document AI"
+    ],
+    "doi": "10.1007/978-3-030-89128-2_37"
+  },
+  {
+    "id": "paper-63",
+    "title": "VinaFood21: A Novel Dataset for Evaluating Vietnamese Food Recognition. (accepted)",
+    "authors": "Thuan Trong Nguyen, Nguyen D. Vo, and Khang Nguyen",
+    "venue": "2021 RIVF International Conference on Computing and Communication Technologies (RIVF). IEEE, 2021. PDF Dataset",
+    "year": 2021,
+    "type": "conference",
+    "quartile": "",
+    "url": "https://www.researchgate.net/publication/352900778_VinaFood21_A_Novel_Dataset_for_Evaluating_Vietnamese_Food_Recognition",
+    "tags": [
+      "Computer Vision"
+    ],
+    "doi": "10.1109/RIVF51545.2021.9642151"
+  },
+  {
+    "id": "paper-64",
+    "title": "MC-OCR Challenge 2021: Deep Learning Approach for Vietnamese Receipts OCR. (accepted)",
+    "authors": "Doanh C. Bui, Nguyen D. Vo, and Khang Nguyen",
+    "venue": "2021 RIVF International Conference on Computing and Communication Technologies (RIVF). IEEE, 2021. PDF",
+    "year": 2021,
+    "type": "conference",
+    "quartile": "",
+    "url": "https://www.researchgate.net/publication/352794568_MC-OCR_Challenge_2021_Deep_Learning_Approach_for_Vietnamese_Receipts_OCR",
+    "tags": [
+      "Computer Vision",
+      "Document AI"
+    ],
+    "doi": "10.1109/RIVF51545.2021.9642128"
+  },
+  {
+    "id": "paper-12",
+    "title": "Detecting Objects from Space: An Evaluation of Deep-Learning Modern Approaches.",
+    "authors": "Khang Nguyen, Nhut T. Huynh, Phat C. Nguyen, Khanh-Duy Nguyen, Nguyen D. Vo, Tam V. Nguyen.",
+    "venue": "Electronics 9, 583 (2020), SCIE, Q2, IF: 1.764",
+    "year": 2020,
+    "type": "journal",
+    "quartile": "Peer-reviewed Journal",
+    "url": "https://www.mdpi.com/2079-9292/9/4/583",
+    "tags": [
+      "Computer Vision",
+      "Deep Learning"
+    ],
+    "thumbnail": "/images/papers/Detecting_Objects_from_Space.png",
+    "doi": "10.3390/electronics9040583"
+  },
+  {
+    "id": "paper-29",
+    "title": "Huynh, Phat C",
+    "authors": "Khang Nguyen, Nhut T",
+    "venue": "Nguyen, Khanh-Duy Nguyen, Nguyen D. Vo, Tam V. Nguyen. Detecting Objects from Space: An Evaluation of Deep-Learning Modern Approaches. Electronics 9, 583 (2020), (SCIE, Q2, IF: 1.764) .",
+    "year": 2020,
+    "type": "journal",
+    "quartile": "SCIE, Q2, IF: 1.764",
+    "url": "",
+    "tags": [
+      "Computer Vision"
+    ]
+  },
+  {
+    "id": "paper-65",
+    "title": "The effects of super-resolution on object detection performance in an aerial image.",
+    "authors": "Truong, Ngan T., Nguyen D. Vo, and Khang Nguyen",
+    "venue": "2020 7th NAFOSTED Conference on Information and Computer Science (NICS). IEEE, 2020. PDF",
+    "year": 2020,
+    "type": "conference",
+    "quartile": "",
+    "url": "https://ieeexplore.ieee.org/abstract/document/9335859",
+    "tags": [
+      "Computer Vision",
+      "Aerial Vision"
+    ]
+  },
+  {
+    "id": "paper-66",
+    "title": "Vehicle Detection at Night Time.",
+    "authors": "Ho, Ngoc, et al",
+    "venue": "2020 7th NAFOSTED Conference on Information and Computer Science (NICS). IEEE, 2020. PDF",
+    "year": 2020,
+    "type": "conference",
+    "quartile": "",
+    "url": "https://ieeexplore.ieee.org/abstract/document/9335870",
+    "tags": [
+      "Computer Vision"
+    ]
+  },
+  {
+    "id": "paper-67",
+    "title": "Data augmentation analysis in vehicle detection from aerial videos.",
+    "authors": "Chung, Quynh M., et al",
+    "venue": "2020 RIVF International Conference on Computing and Communication Technologies (RIVF). IEEE, 2020. PDF",
+    "year": 2020,
+    "type": "conference",
+    "quartile": "",
+    "url": "https://ieeexplore.ieee.org/abstract/document/9140740",
+    "tags": [
+      "Computer Vision",
+      "Aerial Vision"
+    ],
+    "doi": "10.1109/RIVF48685.2020.9140740"
+  },
+  {
+    "id": "paper-69",
+    "title": "Phát hiện bảng trong tài liệu dạng ảnh sử dụng phương pháp định vị góc CornerNet.",
+    "authors": "Duong, Long P. et al",
+    "venue": "Fundamental and Applied Information Technology Research (FAIR), 2020.",
+    "year": 2020,
+    "type": "conference",
+    "quartile": "",
+    "url": "https://doi.org/10.15625/vap.2020.00201",
+    "tags": [
+      "Computer Vision",
+      "Document AI"
+    ],
+    "doi": "10.15625/vap.2020.00201"
+  },
+  {
+    "id": "paper-70",
+    "title": "Phát hiện đối tượng trong ảnh bị hạn chế tầm nhìn bởi sương mù",
+    "authors": "Phan Vĩnh Long, Võ Duy Nguyên, Nguyễn Tấn Trần Minh Khang",
+    "venue": "Hội thảo Quốc gia lần thứ XXIII về Điện tử, Truyền thông và Công nghệ Thông tin, 2020, Hà Nội, Việt Nam.",
+    "year": 2020,
+    "type": "journal",
+    "quartile": "",
+    "url": "",
+    "tags": [
+      "Computer Vision"
+    ]
+  },
+  {
+    "id": "paper-71",
+    "title": "Tái nhận dạng nhân vật sử dụng phương pháp học sâu",
+    "authors": "Nguyễn Hoàng Trọng Nghĩa, Nguyễn Công Minh, Trần Minh Tùng, Võ Duy Nguyên, Nguyễn Tấn Trần Minh Khang",
+    "venue": "Hội thảo Quốc gia lần thứ XXIII về Điện tử, Truyền thông và Công nghệ Thông tin, 2020, Hà Nội, Việt Nam.",
+    "year": 2020,
+    "type": "journal",
+    "quartile": "",
+    "url": "",
+    "tags": [
+      "Computer Vision"
+    ]
+  },
+  {
+    "id": "paper-72",
+    "title": "Phát hiện phương tiện giao thông tại các trung tâm thành phố lớn với phương pháp YOLOv4",
+    "authors": "Hồ Thái Ngọc, Phạm Thị Hoàng Mai, Bùi Cao Doanh, Trịnh Thị Thanh Trúc, Võ Duy Nguyên, Nguyễn Tấn Trần Minh Khang",
+    "venue": "Một số vấn đề chọn lọc của Công nghệ thông tin và Truyền thông(@), 11-2020, Hạ Long, Vietnam.",
+    "year": 2020,
+    "type": "journal",
+    "quartile": "",
+    "url": "",
+    "tags": [
+      "Computer Vision",
+      "Traffic Anomaly"
+    ]
+  },
+  {
+    "id": "paper-73",
+    "title": "Khảo sát các phương pháp máy học cho bài toán phân loại COVID-19 trên ảnh X-quang",
+    "authors": "Một Võ Thị, Phan Vĩnh Long Võ Duy Nguyên, Nguyễn Tấn Trần Minh Khang",
+    "venue": "Một số vấn đề chọn lọc của Công nghệ thông tin và Truyền thông(@), 11-2020, Hạ Long, Vietnam.",
+    "year": 2020,
+    "type": "journal",
+    "quartile": "",
+    "url": "",
+    "tags": [
+      "Computer Vision"
+    ]
+  },
+  {
+    "id": "paper-74",
+    "title": "Một phương pháp học sâu phát hiện cảm xúc gương mặt",
+    "authors": "Bùi Cao Doanh, Võ Duy Nguyên, Nguyễn Tấn Trần Minh Khang",
+    "venue": "Một số vấn đề chọn lọc của Công nghệ thông tin và Truyền thông(@), 11-2020, Hạ Long, Vietnam.",
+    "year": 2020,
+    "type": "journal",
+    "quartile": "",
+    "url": "",
+    "tags": [
+      "Computer Vision"
+    ]
+  },
+  {
+    "id": "paper-75",
+    "title": "Phát hiện đối tượng trong môi trường tầm nhìn hạn chế",
+    "authors": "Hồ Thái Ngọc, Phạm Thị Hoàng Mai, Võ Duy Nguyên, Nguyễn Tấn Trần Minh Khang",
+    "venue": "Một số vấn đề chọn lọc của Công nghệ thông tin và Truyền thông(@), 11-2020, Hạ Long, Vietnam.",
+    "year": 2020,
+    "type": "journal",
+    "quartile": "",
+    "url": "",
+    "tags": [
+      "Computer Vision"
+    ]
+  },
+  {
+    "id": "paper-68",
+    "title": "Human-Object Grouping Discovery for Human Action Recognition in Still Images.",
+    "authors": "Tran, Tung M. et al",
+    "venue": "2019 International Conference on Knowledge, Information and Creativity Support Systems.",
+    "year": 2019,
+    "type": "conference",
+    "quartile": "",
+    "url": "",
+    "tags": [
+      "Computer Vision"
+    ]
+  },
+  {
+    "id": "paper-77",
+    "title": "Deep feature extractors for small object detection in aerial images.",
+    "authors": "Nguyen, Hai Q., Vinh P. Tran, D. Vo Nguyen, and Khang Nguyen",
+    "venue": "Conference on information technology and its applications (CITA), 2019.",
+    "year": 2019,
+    "type": "conference",
+    "quartile": "",
+    "url": "",
+    "tags": [
+      "Computer Vision",
+      "Aerial Vision"
+    ]
+  },
+  {
+    "id": "paper-78",
+    "title": "Phát hiện xe hai-ba bánh theo thời gian thực sử dụng phương pháp học sâu YOLOv3.",
+    "authors": "N. Hao, N. D. Vo, and N. Khang",
+    "venue": "The 22nd National Symposium of Selected ICT Problems, 2019.",
+    "year": 2019,
+    "type": "conference",
+    "quartile": "",
+    "url": "",
+    "tags": [
+      "Computer Vision"
+    ]
+  },
+  {
+    "id": "paper-79",
+    "title": "Phát hiện đối tượng từ không ảnh sử dụng phương pháp Faster R-CNN.",
+    "authors": "Di T. Vo, Thinh H. Hua, Nguyen D. Vo, and Khang Nguyen",
+    "venue": "The 22nd National Symposium of Selected ICT Problems, 2019.",
+    "year": 2019,
+    "type": "conference",
+    "quartile": "",
+    "url": "",
+    "tags": [
+      "Computer Vision",
+      "Aerial Vision"
+    ]
+  },
+  {
+    "id": "paper-80",
+    "title": "SSD For Object Detection In Aerial Videos.",
+    "authors": "Quynh M. Chung, Tien D. Le, Nguyen D. Vo, and Khang Nguyen",
+    "venue": "The 22nd National Symposium of Selected ICT Problems, 2019",
+    "year": 2019,
+    "type": "conference",
+    "quartile": "",
+    "url": "",
+    "tags": [
+      "Computer Vision",
+      "Aerial Vision"
+    ]
+  },
+  {
+    "id": "paper-81",
+    "title": "Tái nhận dạng nhân vật ở cấp độ điểm ảnh.",
+    "authors": "Hiep T. Nguyen, Nguyen D. Vo, Son T. Nguyen, and Khang Nguyen",
+    "venue": "Conference on information technology and its applications (CITA), 2019",
+    "year": 2019,
+    "type": "conference",
+    "quartile": "",
+    "url": "",
+    "tags": [
+      "Computer Vision"
+    ]
+  },
+  {
+    "id": "paper-82",
+    "title": "Phát hiện phương tiện giao thông trong không ảnh.",
+    "authors": "Hieu T. Do, Anh D. Phan, Nguyen D. Vo, Khang Nguyen",
+    "venue": "Conference on information technology and its applications (CITA), 2019",
+    "year": 2019,
+    "type": "conference",
+    "quartile": "",
+    "url": "",
+    "tags": [
+      "Computer Vision",
+      "Aerial Vision",
+      "Traffic Anomaly"
+    ]
+  },
+  {
+    "id": "paper-83",
+    "title": "Phát hiện xe hai-ba bánh theo thời gian thực sử dụng phương pháp học sâu YOLOv3",
+    "authors": "Nguyễn Trung Hào, Võ Duy Nguyên, Nguyễn Tấn Trần Minh Khang",
+    "venue": "Một số vấn đề chọn lọc của Công nghệ thông tin và Truyền thông(@), 28-06-2019, Thái Bình, Vietnam.",
+    "year": 2019,
+    "type": "journal",
+    "quartile": "",
+    "url": "",
+    "tags": [
+      "Computer Vision"
+    ]
+  },
+  {
+    "id": "paper-84",
+    "title": "Phát hiện đối tượng từ không ảnh sử dụng phương pháp Faster R-CNN",
+    "authors": "Võ Tuấn Dĩ, Hứa Hưng Thịnh, Võ Duy Nguyên, Nguyễn Tấn Trần Minh Khang",
+    "venue": "Một số vấn đề chọn lọc của Công nghệ thông tin và Truyền thông(@), 28-06-2019, Thái Bình, Vietnam.",
+    "year": 2019,
+    "type": "journal",
+    "quartile": "",
+    "url": "",
+    "tags": [
+      "Computer Vision",
+      "Aerial Vision"
+    ]
+  },
+  {
+    "id": "paper-85",
+    "title": "SSD For Object Detection In Aerial Videos",
+    "authors": "Chung Mạnh Quỳnh, Lê Đức Tiến, Võ Duy Nguyên, Nguyễn Tấn Trần Minh Khang",
+    "venue": "Một số vấn đề chọn lọc của Công nghệ thông tin và Truyền thông(@), 28-06-2019, Thái Bình, Vietnam.",
+    "year": 2019,
+    "type": "journal",
+    "quartile": "",
+    "url": "",
+    "tags": [
+      "Computer Vision",
+      "Aerial Vision"
+    ]
+  },
+  {
+    "id": "paper-86",
+    "title": "Deep feature extractors for tiny object detection in aerial images",
+    "authors": "Hai Nguyen, Vinh Tran, Nguyen D. Vo, Khang Nguyen",
+    "venue": "Hội thảo khoa học quốc gia về công nghệ thông tin và ứng dụng trong các lĩnh vực(CITA), 09-2019, Đà Nẵng, Vietnam.",
+    "year": 2019,
+    "type": "journal",
+    "quartile": "",
+    "url": "",
+    "tags": [
+      "Computer Vision",
+      "Aerial Vision"
+    ]
+  },
+  {
+    "id": "paper-87",
+    "title": "Phát hiện phương tiện giao thông trong không ảnh",
+    "authors": "Đỗ Trung Hiếu, Phan Đức Anh, Võ Duy Nguyên, Nguyễn Tấn Trần Minh Khang",
+    "venue": "Hội thảo khoa học quốc gia về công nghệ thông tin và ứng dụng trong các lĩnh vực(CITA), 09-2019, Đà Nẵng, Vietnam.",
+    "year": 2019,
+    "type": "journal",
+    "quartile": "",
+    "url": "",
+    "tags": [
+      "Computer Vision",
+      "Aerial Vision",
+      "Traffic Anomaly"
+    ]
+  },
+  {
+    "id": "paper-26",
+    "title": "Đánh giá một số phương pháp biểu diễn đặc trưng cho bài toán tái nhận dạng nhân vật.",
+    "authors": "Nguyen D. Vo, Nguyen T. Ngoc, and Khang Nguyen",
+    "venue": "Journal of Science, vol. 15, no. 6 (2018): 9.",
+    "year": 2018,
+    "type": "journal",
+    "quartile": "",
+    "url": "https://doi.org/10.54607/hcmue.js.15.6.2285(2018)",
+    "tags": [
+      "Computer Vision"
+    ],
+    "doi": "10.54607/hcmue.js.15.6.2285(2018)"
+  },
+  {
+    "id": "paper-88",
+    "title": "Khảo sát thực nghiệm đặc trưng học sâu trên bộ dữ liệu lớn cho bài toán tái nhận dạng nhân vật",
+    "authors": "Võ Duy Nguyên, Huỳnh Nhật Lưu Nguyễn Thị Bảo Ngọc Nguyễn Tấn Trần Minh Khang",
+    "venue": "Nghiên cứu cơ bản và ứng dụng Công nghệ thông tin(FAIR), 10-08-2018, Hà Nội, Vietnam, 978-604-913-614-6.",
+    "year": 2018,
+    "type": "conference",
+    "quartile": "",
+    "url": "https://doi.org/10.15625/vap.2018.00031",
+    "tags": [
+      "Computer Vision"
+    ],
+    "doi": "10.15625/vap.2018.00031"
+  },
+  {
+    "id": "paper-89",
+    "title": "Ensemble of deep object detectors for page object detection.",
+    "authors": "Vo, Nguyen D., et al",
+    "venue": "Proceedings of the 12th International Conference on Ubiquitous Information Management and Communication. 2018. PDF",
+    "year": 2018,
+    "type": "conference",
+    "quartile": "",
+    "url": "https://dl.acm.org/doi/abs/10.1145/3164541.3164644",
+    "tags": [
+      "Computer Vision",
+      "Document AI"
+    ],
+    "doi": "10.1145/3164541.3164644"
+  },
+  {
+    "id": "paper-90",
+    "title": "Denser Trajectories of Anchor Points for Action Recognition",
+    "authors": "Tam V. Nguyen, Jiashi Feng, Khang Nguyen",
+    "venue": "International Conference on Ubiquitous Information Management and Communication (IMCOM), 05-01-2018, Langkawi, Malaysia.",
+    "year": 2018,
+    "type": "conference",
+    "quartile": "",
+    "url": "https://doi.org/10.1145/3164541.3164611",
+    "tags": [
+      "Computer Vision"
+    ],
+    "doi": "10.1145/3164541.3164611"
+  },
+  {
+    "id": "paper-91",
+    "title": "Empirical Evaluation Of State-Of-The-Art Object Detection Methods For Document Image Understanding.",
+    "authors": "Vo, Nguyen D., Khanh Nguyen, Tam V. Nguyen, and Khang Nguyen",
+    "venue": "Fundamental and Applied Information Technology Research (FAIR), 2017.",
+    "year": 2017,
+    "type": "conference",
+    "quartile": "",
+    "url": "https://doi.org/10.15625/vap.2017.00022",
+    "tags": [
+      "Computer Vision",
+      "Document AI"
+    ],
+    "doi": "10.15625/vap.2017.00022"
+  },
+  {
+    "id": "paper-92",
+    "title": "Exploiting Generic Multi-Level Convolutional Neural Networks for Scene Understanding",
+    "authors": "Tam Nguyen, Luoqi Liu Khang Nguyen",
+    "venue": "International Conference on Control, Automation, Robotics and Vision (ICARCV), 2016, Phuket, Thailand.",
+    "year": 2016,
+    "type": "conference",
+    "quartile": "",
+    "url": "",
+    "tags": [
+      "Computer Vision"
+    ]
+  },
+  {
+    "id": "paper-30",
+    "title": "International Journal on Computer Science and Engineering",
+    "authors": "Khang Nguyen, Nuong Tran, Integer Formulation and Data Analysis of a Real-World Course Timetabling Problem",
+    "venue": "Volume 5, Issue 1, January 2013, pp 51-55, 2013",
+    "year": 2013,
+    "type": "journal",
+    "quartile": "",
+    "url": "",
+    "tags": [
+      "Computer Vision"
+    ]
+  },
+  {
+    "id": "paper-31",
+    "title": "An hybrid algorithm of harmony search and bees algorithm for a university course timetabling problem",
+    "authors": "Khang Nguyen, Phuc Nguyen, Nuong Tran",
+    "venue": "International Journal of Computer Science Issues, Volume 9, Issue 1, January 2012, pp 12-17, 2012",
+    "year": 2012,
+    "type": "journal",
+    "quartile": "",
+    "url": "",
+    "tags": [
+      "Computer Vision"
+    ]
+  },
+  {
+    "id": "paper-93",
+    "title": "Memetic algorithm for a University Course Timetabling Problem",
+    "authors": "Khang Nguyen, Tien Lu Trung Le Nuong Tran",
+    "venue": "International AsiaConference on Informatics in Control, Automation and Robotics, 2011, Shenzen, China.",
+    "year": 2011,
+    "type": "conference",
+    "quartile": "",
+    "url": "https://doi.org/10.1007/978-3-642-25899-2_10",
+    "tags": [
+      "Computer Vision"
+    ],
+    "doi": "10.1007/978-3-642-25899-2_10"
+  },
+  {
+    "id": "paper-94",
+    "title": "The Bees Algorithm for a Practical University Timetabling Problem in Vietnam",
+    "authors": "Nguyen Tan Tran Minh Khang, Nguyen Ba Phuc, Tran Thi Hue Nuong",
+    "venue": "Computer Science and Automation Engineering, 2011, Shanghai, China.",
+    "year": 2011,
+    "type": "journal",
+    "quartile": "",
+    "url": "",
+    "tags": [
+      "Computer Vision"
+    ]
+  },
+  {
+    "id": "paper-95",
+    "title": "Applications of Particle Swarm Optimization Algorithm to a Practical University Timetabling Problem",
+    "authors": "Khang Nguyen, Nam Nguyen Vi, Pham Phuc, Nguyen Nuong Tran",
+    "venue": "International Conference on Computer and Computational Intelligence, 2011, bangkok, Thailand.",
+    "year": 2011,
+    "type": "conference",
+    "quartile": "",
+    "url": "",
+    "tags": [
+      "Computer Vision"
+    ]
+  },
+  {
+    "id": "paper-96",
+    "title": "Variable Neighborhood Search for a Real-World Curriculum-based University Timetabling Problem",
+    "authors": "Khang Nguyen, Quang Nguyen Hien Nguyen Phuc Nguyen Nuong Tran",
+    "venue": "International Conference on Knowledge and Systems Engineering, 2011, Hanoi, Vietnam.",
+    "year": 2011,
+    "type": "conference",
+    "quartile": "",
+    "url": "",
+    "tags": [
+      "Computer Vision"
+    ]
+  },
+  {
+    "id": "paper-27",
+    "title": "Khảo sát các thuật giải Tabu search cho bài toán xếp thời khoá biểu Đại Học",
+    "authors": "Nguyễn Tấn Trần Minh Khang, Đặng Thị Thanh Nguyên, Triệu Tráng Khôn, Trần Thị Huệ Nương",
+    "venue": "Tạp chí Đại Học Sài Gòn, Việt Nam, p 44-53, 2010.",
+    "year": 2010,
+    "type": "journal",
+    "quartile": "",
+    "url": "",
+    "tags": [
+      "Computer Vision"
+    ]
+  },
+  {
+    "id": "paper-97",
+    "title": "Automating a Real-World University Timetabling Problem with Tabu Search Algorithm",
+    "authors": "Khang Nguyen, Nguyen Dang Khon Trieu, Nuong Tran",
+    "venue": "IEEE International Conference on Computing and Communication Technologies, Research, Innovation, and Vision for the Future, 2010, Hanoi, Vietnam.",
+    "year": 2010,
+    "type": "conference",
+    "quartile": "",
+    "url": "",
+    "tags": [
+      "Computer Vision"
+    ]
+  },
+  {
+    "id": "paper-98",
+    "title": "Simulated Annealing-Based Algorithm for a Real-World High School Timetabling Problem",
+    "authors": "Khang Nguyen, Tung Pham, Nga Le, Nguyen Dang, Nuong Tran",
+    "venue": "Second International Conference on Knowledge and Systems Engineering, 2010, Hanoi, Vietnam.",
+    "year": 2010,
+    "type": "conference",
+    "quartile": "",
+    "url": "https://doi.org/10.1109/KSE.2010.31",
+    "tags": [
+      "Computer Vision"
+    ],
+    "doi": "10.1109/KSE.2010.31"
+  },
+  {
+    "id": "paper-yada-2019",
+    "title": "YADA: You Always Dream Again for Better Object Detection",
+    "authors": "Nguyen D. Vo, Khang Nguyen, TV Le",
+    "venue": "Multimedia Tools and Applications",
+    "year": 2019,
+    "type": "journal",
+    "quartile": "SCIE, Q2",
+    "url": "https://doi.org/10.1007/s11042-019-07888-4",
+    "doi": "10.1007/s11042-019-07888-4",
+    "thumbnail": "/images/papers/YADA.png",
+    "tags": [
+      "Object Detection",
+      "Computer Vision",
+      "Deep Learning"
+    ]
+  },
+  {
+    "id": "paper-yala-2019",
+    "title": "You Always Look Again: Learning to Detect the Unseen Objects",
+    "authors": "Nguyen D. Vo, Khang Nguyen",
+    "venue": "Journal of Visual Communication and Image Representation",
+    "year": 2019,
+    "type": "journal",
+    "quartile": "SCIE, Q2",
+    "url": "https://doi.org/10.1016/j.jvcir.2019.02.020",
+    "doi": "10.1016/j.jvcir.2019.02.020",
+    "thumbnail": "/images/papers/YALA.png",
+    "tags": [
+      "Object Detection",
+      "Unseen Objects",
+      "Deep Learning"
+    ]
+  }
+]
