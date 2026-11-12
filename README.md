@@ -53,8 +53,7 @@ pnpm -v
 ### Installation & Development
 
 ```bash
-# Navigate to the prototype application
-cd prototype
+# Navigate under uit-together-web-prototype/ directory first
 
 # Install dependencies
 pnpm install
